@@ -1,0 +1,20 @@
+Settings	sector	\OBBB.sct
+Settings	Settingsfile	\OBBB.txt
+Settings	SettingsfileVOICE	\OBBB.txt
+LastSession	connecttype	0
+LastSession	callsign	OBBB_CTR
+Voice	input_hardware	Wave - External Mic (IDT High Definiti
+Voice	output_hardware	Wave - Speakers and Headphones (IDT Hi
+LastSession	atis_airport	OBBI
+Voice	squelch	95.4
+Voice	PPPT	18677760
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+RecentFiles	Recent1	\OBBB.asr
+LastSession	atis2	Bahrain Control
+LastSession	atis3	 Report callsign and position on initial contact.
+LastSession	facility	6
+LastSession	rating	0
+LastSession	range	400
+Settings	AtisFolder	\UniATIS_OBBBV2\atisfiles.txt
+LastSession	atis4	For Charts and Infos visit vatbah.vatme.net
