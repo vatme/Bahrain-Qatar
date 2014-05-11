@@ -6,44 +6,24 @@ SECTORTITLE:OBBB.sct
 Airports:OBBI:name
 Airports:OBBS:name
 Airports:OBKH:name
-Airports:OEAD:name
-Airports:OEAH:name
-Airports:OEBN:name
 Airports:OEBQ:name
 Airports:OEBT:name
 Airports:OEDF:name
 Airports:OEDR:name
 Airports:OEJB:name
 Airports:OERT:name
-Airports:OESB:name
-Airports:OEST:name
-Airports:OEUD:name
 Airports:OTBD:name
 Airports:OTBH:name
 Airports:OTBK:name
-ARTCC boundary:CTR/Bahrain:
-ARTCC boundary:CTR/Dammam:
-ARTCC boundary:CTR/Dharan:
-ARTCC boundary:CTR/Doha:
-ARTCC boundary:CTR/Jubail:
-ARTCC high boundary:OBBB:
-ARTCC high boundary:OEJD:
-ARTCC high boundary:OIIX:
-ARTCC high boundary:OKAC:
-ARTCC high boundary:OMAE:
-ARTCC high boundary:OOMM:
+ARTCC boundary:F:
+ARTCC high boundary:F:
+ARTCC high boundary:H:
 Fixes:ADARY:name
 Fixes:ADARY:symbol
 Fixes:AFNAN:name
 Fixes:AFNAN:symbol
-Fixes:AKODI:name
-Fixes:AKODI:symbol
-Fixes:AKRAM:name
-Fixes:AKRAM:symbol
 Fixes:ALMAL:name
 Fixes:ALMAL:symbol
-Fixes:ALPEK:name
-Fixes:ALPEK:symbol
 Fixes:ALSAT:name
 Fixes:ALSAT:symbol
 Fixes:ALSER:name
@@ -52,8 +32,6 @@ Fixes:ALVUN:name
 Fixes:ALVUN:symbol
 Fixes:AMBIK:name
 Fixes:AMBIK:symbol
-Fixes:ANTER:name
-Fixes:ANTER:symbol
 Fixes:ASKIM:name
 Fixes:ASKIM:symbol
 Fixes:ASLAV:name
@@ -62,16 +40,12 @@ Fixes:ASPAN:name
 Fixes:ASPAN:symbol
 Fixes:ASTOG:name
 Fixes:ASTOG:symbol
-Fixes:AVOBO:name
-Fixes:AVOBO:symbol
 Fixes:AWADI:name
 Fixes:AWADI:symbol
 Fixes:BAYAN:name
 Fixes:BAYAN:symbol
 Fixes:BOROP:name
 Fixes:BOROP:symbol
-Fixes:BOTEP:name
-Fixes:BOTEP:symbol
 Fixes:BOXOG:name
 Fixes:BOXOG:symbol
 Fixes:BUNDU:name
@@ -82,8 +56,6 @@ Fixes:DAVGU:name
 Fixes:DAVGU:symbol
 Fixes:DAVUS:name
 Fixes:DAVUS:symbol
-Fixes:DEBOL:name
-Fixes:DEBOL:symbol
 Fixes:DEDAS:name
 Fixes:DEDAS:symbol
 Fixes:DELMU:name
@@ -92,10 +64,6 @@ Fixes:DENSI:name
 Fixes:DENSI:symbol
 Fixes:DETKO:name
 Fixes:DETKO:symbol
-Fixes:DIRAS:name
-Fixes:DIRAS:symbol
-Fixes:DUDRI:name
-Fixes:DUDRI:symbol
 Fixes:DUSTA:name
 Fixes:DUSTA:symbol
 Fixes:EGNOV:name
@@ -110,22 +78,12 @@ Fixes:GEPAK:name
 Fixes:GEPAK:symbol
 Fixes:GEVAL:name
 Fixes:GEVAL:symbol
-Fixes:GIBUS:name
-Fixes:GIBUS:symbol
-Fixes:GOBRO:name
-Fixes:GOBRO:symbol
 Fixes:GODNI:name
 Fixes:GODNI:symbol
-Fixes:IMDAM:name
-Fixes:IMDAM:symbol
 Fixes:IMOVA:name
 Fixes:IMOVA:symbol
 Fixes:IMRUN:name
 Fixes:IMRUN:symbol
-Fixes:IMSAK:name
-Fixes:IMSAK:symbol
-Fixes:ITIXI:name
-Fixes:ITIXI:symbol
 Fixes:ITORA:name
 Fixes:ITORA:symbol
 Fixes:IVONI:name
@@ -134,16 +92,8 @@ Fixes:JALYD:name
 Fixes:JALYD:symbol
 Fixes:KEDAT:name
 Fixes:KEDAT:symbol
-Fixes:KINIB:name
-Fixes:KINIB:symbol
-Fixes:KIPOM:name
-Fixes:KIPOM:symbol
 Fixes:KIRAR:name
 Fixes:KIRAR:symbol
-Fixes:KIREN:name
-Fixes:KIREN:symbol
-Fixes:KITAP:name
-Fixes:KITAP:symbol
 Fixes:KODAG:name
 Fixes:KODAG:symbol
 Fixes:KUMBO:name
@@ -156,8 +106,6 @@ Fixes:KUSAR:name
 Fixes:KUSAR:symbol
 Fixes:KUTEM:name
 Fixes:KUTEM:symbol
-Fixes:KUTNA:name
-Fixes:KUTNA:symbol
 Fixes:KUVER:name
 Fixes:KUVER:symbol
 Fixes:LABAB:name
@@ -166,12 +114,8 @@ Fixes:LAGNO:name
 Fixes:LAGNO:symbol
 Fixes:LONOS:name
 Fixes:LONOS:symbol
-Fixes:LOROX:name
-Fixes:LOROX:symbol
 Fixes:LOTIT:name
 Fixes:LOTIT:symbol
-Fixes:LOTOS:name
-Fixes:LOTOS:symbol
 Fixes:LUBED:name
 Fixes:LUBED:symbol
 Fixes:LUGAL:name
@@ -184,18 +128,12 @@ Fixes:MEMBO:name
 Fixes:MEMBO:symbol
 Fixes:MIDSI:name
 Fixes:MIDSI:symbol
-Fixes:MIGMA:name
-Fixes:MIGMA:symbol
 Fixes:MUNTI:name
 Fixes:MUNTI:symbol
 Fixes:MUSKO:name
 Fixes:MUSKO:symbol
-Fixes:MUSRI:name
-Fixes:MUSRI:symbol
 Fixes:MUTAR:name
 Fixes:MUTAR:symbol
-Fixes:MUXIT:name
-Fixes:MUXIT:symbol
 Fixes:NAGER:name
 Fixes:NAGER:symbol
 Fixes:NAJMA:name
@@ -204,16 +142,8 @@ Fixes:NAMLA:name
 Fixes:NAMLA:symbol
 Fixes:NANSU:name
 Fixes:NANSU:symbol
-Fixes:OTAMA:name
-Fixes:OTAMA:symbol
 Fixes:PEGUN:name
 Fixes:PEGUN:symbol
-Fixes:PURDA:name
-Fixes:PURDA:symbol
-Fixes:PURSI:name
-Fixes:PURSI:symbol
-Fixes:PUSLA:name
-Fixes:PUSLA:symbol
 Fixes:PUVDA:name
 Fixes:PUVDA:symbol
 Fixes:RABAP:name
@@ -228,8 +158,6 @@ Fixes:RAZAN:name
 Fixes:RAZAN:symbol
 Fixes:RIGIG:name
 Fixes:RIGIG:symbol
-Fixes:ROSEM:name
-Fixes:ROSEM:symbol
 Fixes:RULEX:name
 Fixes:RULEX:symbol
 Fixes:SALWA:name
@@ -238,50 +166,42 @@ Fixes:SAMYA:name
 Fixes:SAMYA:symbol
 Fixes:SESNA:name
 Fixes:SESNA:symbol
-Fixes:SIBLI:name
-Fixes:SIBLI:symbol
 Fixes:SILNO:name
 Fixes:SILNO:symbol
 Fixes:SIMDA:name
 Fixes:SIMDA:symbol
-Fixes:SITOL:name
-Fixes:SITOL:symbol
 Fixes:SOLEM:name
 Fixes:SOLEM:symbol
-Fixes:SOMAL:name
-Fixes:SOMAL:symbol
-Fixes:TAGSO:name
-Fixes:TAGSO:symbol
 Fixes:TANDA:name
 Fixes:TANDA:symbol
-Fixes:TANSU:name
-Fixes:TANSU:symbol
 Fixes:TARPA:name
 Fixes:TARPA:symbol
 Fixes:TESSO:name
 Fixes:TESSO:symbol
 Fixes:TOBLI:name
 Fixes:TOBLI:symbol
-Fixes:TOKRA:name
-Fixes:TOKRA:symbol
 Fixes:TOLMO:name
 Fixes:TOLMO:symbol
-Fixes:TORKI:name
-Fixes:TORKI:symbol
-Fixes:TORTA:name
-Fixes:TORTA:symbol
 Fixes:TOSNA:name
 Fixes:TOSNA:symbol
 Fixes:TOTNO:name
 Fixes:TOTNO:symbol
 Fixes:TYLOS:name
 Fixes:TYLOS:symbol
-Fixes:ULOVO:name
-Fixes:ULOVO:symbol
 Fixes:UMAMA:name
 Fixes:UMAMA:symbol
+Free Text:Default group\OEDR:freetext
+Free Text:Default group\OTHH:freetext
 Free Text:Group\OBBI:freetext
 Free Text:Group\OEDF:freetext
+Free Text:Group\OEJD:freetext
+Free Text:Group\OEJD:freetext
+Free Text:Group\OEJD:freetext
+Free Text:Group\OIIX:freetext
+Free Text:Group\OIIX:freetext
+Free Text:Group\OKAC:freetext
+Free Text:Group\OMAE:freetext
+Free Text:Group\OMAE:freetext
 Free Text:Group\OTBD:freetext
 Free Text:OBBI\1:freetext
 Free Text:OBBI\13:freetext
@@ -721,7 +641,6 @@ Free Text:OTBD\W5:freetext
 Free Text:OTBD\W6:freetext
 Free Text:OTBD\W7:freetext
 Free Text:OTBD\Z:freetext
-Free Text:OTHH:freetext
 Free Text:OTHH\1:freetext
 Free Text:OTHH\1:freetext
 Free Text:OTHH\1:freetext
@@ -959,8 +878,6 @@ Free Text:OTHH\Y:freetext
 Geo:Coastline:
 Geo:GEO:
 Geo:OBBI:
-Geo:OEDF:
-Geo:OEDR:
 Geo:OTBD:
 Geo:OTHH:
 Runways:OBBI Bahrain Intl 12L-30R:centerline
@@ -1027,54 +944,6 @@ Runways:OBKH Sakhir AB 17-35:extended centerline 2 right base
 Runways:OBKH Sakhir AB 17-35:extended centerline 2 right ticks
 Runways:OBKH Sakhir AB 17-35:extended centerline 2 right vectoring
 Runways:OBKH Sakhir AB 17-35:name
-Runways:OEAD ARADAH 03-21:centerline
-Runways:OEAD ARADAH 03-21:extended centerline 1
-Runways:OEAD ARADAH 03-21:extended centerline 1 left base
-Runways:OEAD ARADAH 03-21:extended centerline 1 left ticks
-Runways:OEAD ARADAH 03-21:extended centerline 1 left vectoring
-Runways:OEAD ARADAH 03-21:extended centerline 1 right base
-Runways:OEAD ARADAH 03-21:extended centerline 1 right ticks
-Runways:OEAD ARADAH 03-21:extended centerline 1 right vectoring
-Runways:OEAD ARADAH 03-21:extended centerline 2
-Runways:OEAD ARADAH 03-21:extended centerline 2 left base
-Runways:OEAD ARADAH 03-21:extended centerline 2 left ticks
-Runways:OEAD ARADAH 03-21:extended centerline 2 left vectoring
-Runways:OEAD ARADAH 03-21:extended centerline 2 right base
-Runways:OEAD ARADAH 03-21:extended centerline 2 right ticks
-Runways:OEAD ARADAH 03-21:extended centerline 2 right vectoring
-Runways:OEAD ARADAH 03-21:name
-Runways:OEAH Al Ahsa 16-34:centerline
-Runways:OEAH Al Ahsa 16-34:extended centerline 1
-Runways:OEAH Al Ahsa 16-34:extended centerline 1 left base
-Runways:OEAH Al Ahsa 16-34:extended centerline 1 left ticks
-Runways:OEAH Al Ahsa 16-34:extended centerline 1 left vectoring
-Runways:OEAH Al Ahsa 16-34:extended centerline 1 right base
-Runways:OEAH Al Ahsa 16-34:extended centerline 1 right ticks
-Runways:OEAH Al Ahsa 16-34:extended centerline 1 right vectoring
-Runways:OEAH Al Ahsa 16-34:extended centerline 2
-Runways:OEAH Al Ahsa 16-34:extended centerline 2 left base
-Runways:OEAH Al Ahsa 16-34:extended centerline 2 left ticks
-Runways:OEAH Al Ahsa 16-34:extended centerline 2 left vectoring
-Runways:OEAH Al Ahsa 16-34:extended centerline 2 right base
-Runways:OEAH Al Ahsa 16-34:extended centerline 2 right ticks
-Runways:OEAH Al Ahsa 16-34:extended centerline 2 right vectoring
-Runways:OEAH Al Ahsa 16-34:name
-Runways:OEBN THABLOTIN 17-35:centerline
-Runways:OEBN THABLOTIN 17-35:extended centerline 1
-Runways:OEBN THABLOTIN 17-35:extended centerline 1 left base
-Runways:OEBN THABLOTIN 17-35:extended centerline 1 left ticks
-Runways:OEBN THABLOTIN 17-35:extended centerline 1 left vectoring
-Runways:OEBN THABLOTIN 17-35:extended centerline 1 right base
-Runways:OEBN THABLOTIN 17-35:extended centerline 1 right ticks
-Runways:OEBN THABLOTIN 17-35:extended centerline 1 right vectoring
-Runways:OEBN THABLOTIN 17-35:extended centerline 2
-Runways:OEBN THABLOTIN 17-35:extended centerline 2 left base
-Runways:OEBN THABLOTIN 17-35:extended centerline 2 left ticks
-Runways:OEBN THABLOTIN 17-35:extended centerline 2 left vectoring
-Runways:OEBN THABLOTIN 17-35:extended centerline 2 right base
-Runways:OEBN THABLOTIN 17-35:extended centerline 2 right ticks
-Runways:OEBN THABLOTIN 17-35:extended centerline 2 right vectoring
-Runways:OEBN THABLOTIN 17-35:name
 Runways:OEBQ Abquaiq 15-33:centerline
 Runways:OEBQ Abquaiq 15-33:extended centerline 1
 Runways:OEBQ Abquaiq 15-33:extended centerline 1 left base
@@ -1203,38 +1072,6 @@ Runways:OERT RAS TANURA 15-33:extended centerline 2 right base
 Runways:OERT RAS TANURA 15-33:extended centerline 2 right ticks
 Runways:OERT RAS TANURA 15-33:extended centerline 2 right vectoring
 Runways:OERT RAS TANURA 15-33:name
-Runways:OEST SHABITAH 13-31:centerline
-Runways:OEST SHABITAH 13-31:extended centerline 1
-Runways:OEST SHABITAH 13-31:extended centerline 1 left base
-Runways:OEST SHABITAH 13-31:extended centerline 1 left ticks
-Runways:OEST SHABITAH 13-31:extended centerline 1 left vectoring
-Runways:OEST SHABITAH 13-31:extended centerline 1 right base
-Runways:OEST SHABITAH 13-31:extended centerline 1 right ticks
-Runways:OEST SHABITAH 13-31:extended centerline 1 right vectoring
-Runways:OEST SHABITAH 13-31:extended centerline 2
-Runways:OEST SHABITAH 13-31:extended centerline 2 left base
-Runways:OEST SHABITAH 13-31:extended centerline 2 left ticks
-Runways:OEST SHABITAH 13-31:extended centerline 2 left vectoring
-Runways:OEST SHABITAH 13-31:extended centerline 2 right base
-Runways:OEST SHABITAH 13-31:extended centerline 2 right ticks
-Runways:OEST SHABITAH 13-31:extended centerline 2 right vectoring
-Runways:OEST SHABITAH 13-31:name
-Runways:OEUD UDHAILIYAH 18-36:centerline
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 1
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 1 left base
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 1 left ticks
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 1 left vectoring
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 1 right base
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 1 right ticks
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 1 right vectoring
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 2
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 2 left base
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 2 left ticks
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 2 left vectoring
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 2 right base
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 2 right ticks
-Runways:OEUD UDHAILIYAH 18-36:extended centerline 2 right vectoring
-Runways:OEUD UDHAILIYAH 18-36:name
 Runways:OTBD Doha Intl 15-33:centerline
 Runways:OTBD Doha Intl 15-33:extended centerline 1
 Runways:OTBD Doha Intl 15-33:extended centerline 1 left base
@@ -1284,20 +1121,14 @@ Runways:OTBK Al Khor 14-32:extended centerline 2 right ticks
 Runways:OTBK Al Khor 14-32:extended centerline 2 right vectoring
 Runways:OTBK Al Khor 14-32:name
 VORs:ALD:symbol
-VORs:ARD:symbol
 VORs:BAH:symbol
 VORs:BAT:symbol
 VORs:BHT:symbol
-VORs:BPN:symbol
 VORs:DHA:symbol
 VORs:DOH:symbol
-VORs:HSA:symbol
 VORs:JBL:symbol
 VORs:KFA:symbol
-VORs:MGA:symbol
-VORs:SBT:symbol
 VORs:SIA:symbol
-VORs:THA:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -1310,4 +1141,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:GSiT
-WINDOWAREA:17.643118:37.893441:29.813670:67.055595
+WINDOWAREA:21.145672:40.313033:31.381824:63.663753
