@@ -135,6 +135,7 @@ RECORD:OBBI:obbi.wav
 RECORD:OOMS:OOMS.wav
 RECORD:or:or.wav
 RECORD:OTBD:otbd.wav
+RECORD:OTHH:othh.wav
 RECORD:Oulu:efou.wav
 RECORD:overcast:ovc.wav
 RECORD:p:p.wav
@@ -229,29 +230,31 @@ RECORD:windshear all runways:WSall.wav
 RECORD:x:x.wav
 RECORD:y:y.wav
 RECORD:z:z.wav
-ITEM:This is:XXX
-ITEM:OBBI:XXX
-ITEM:information:XXX
-ITEM:B:
-ITEM:at time:XXX
-ITEM:1600:
-ITEM:expect ILS approach:XXX
-ITEM:arrival runway:XXX
-ITEM:30R:
-ITEM:departure runway:XXX
-ITEM:30L:
-ITEM:wind:XXX
-ITEM:320:
-ITEM:degrees:XXX
-ITEM:11:
-ITEM:knots:XXX
-ITEM:CAVOK:XXX
-ITEM:temperature:XXX
-ITEM:30:
-ITEM:dew point:XXX
-ITEM:20:
-ITEM:QNH:XXX
-ITEM:1006:
-ITEM:NOSIG:XXX
-ITEM:advice ATC that you copied information:XXX
-ITEM:B:
+ITEM:Error:
+ITEM:1001::
+ITEM:invalid:
+ITEM:airport:
+ITEM:ICAO:
+ITEM:or:
+ITEM:it:
+ITEM:was:
+ITEM:not:
+ITEM:found:
+ITEM:from:
+ITEM:the:
+ITEM:database.:
+ITEM:If:
+ITEM:this:
+ITEM:is:
+ITEM:not:
+ITEM:the:
+ITEM:case:
+ITEM:please:
+ITEM:report:
+ITEM:the:
+ITEM:airport:
+ITEM:in:
+ITEM:question:
+ITEM:to:
+ITEM:the:
+ITEM:admin:
