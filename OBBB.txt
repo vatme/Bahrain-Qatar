@@ -646,6 +646,7 @@ AG:OTBD_GND:118.650:rw.liveatc.net:otbd_gnd
 AG:OTBK_GND:118.270:rw.liveatc.net:otbk_gnd
 AG:OBBI_ATIS:127.200:rw.liveatc.net:obbi_atis
 AG:OTBD_ATIS:126.450:rw.liveatc.net:otbd_atis
+AG:OTHH_ATIS:126.850:rw.liveatc.net:othh_atis
 AG:OTHH_DEL:120.870:rw.liveatc.net:othh_del
 AG:OTHH_E_GND:120.220:rw.liveatc.net:othh_e_gnd
 AG:OTHH_W_GND:121.670:rw.liveatc.net:othh_w_gnd
@@ -709,23 +710,23 @@ PROFILE:OTBK_GND:20:3
 ATIS2:Al Khor Ground
 ATIS3: Report callsign and position on initial contact.
 ATIS4:For Charts and Infos visit vatbah.vatme.net
-PROFILE:OTHH_DEL:100:2
+PROFILE:OTHH_DEL:10:2
 ATIS2:Hamad Delivery
 ATIS3:Report callsign and position on initial contact.
 ATIS4:For Charts and Infos visit vatbah.vatme.net
-PROFILE:OTHH_E_TWR:100:4
+PROFILE:OTHH_E_TWR:50:4
 ATIS2:Hamad Tower
 ATIS3:Report callsign and position on initial contact.
 ATIS4:For Charts and Infos visit vatbah.vatme.net
-PROFILE:OTHH_W_TWR:100:4
+PROFILE:OTHH_W_TWR:50:4
 ATIS2:Hamad Tower
 ATIS3:Report callsign and position on initial contact.
 ATIS4:For Charts and Infos visit vatbah.vatme.net
-PROFILE:OTHH_E_GND:100:3
+PROFILE:OTHH_E_GND:10:3
 ATIS2:Hamad Ground
 ATIS3:Report callsign and position on initial contact.
 ATIS4:For Charts and Infos visit vatbah.vatme.net
-PROFILE:OTHH_W_GND:100:3
+PROFILE:OTHH_W_GND:10:3
 ATIS2:Hamad Ground
 ATIS3:Report callsign and position on initial contact.
 ATIS4:For Charts and Infos visit vatbah.vatme.net
