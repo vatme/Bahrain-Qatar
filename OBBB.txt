@@ -658,79 +658,79 @@ PROFILE
 PROFILE:OBBB_CTR:400:6
 ATIS2:Bahrain Control
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OBBB_W_CTR:400:6
 ATIS2:Bahrain West Control
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OBBB_E_CTR:400:6
 ATIS2:Bahrain East Control
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OBBI_APP:150:5
 ATIS2:Bahrain Approach
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OTBD_APP:150:5
 ATIS2:Doha Approach
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OTBD_DEP:150:5
 ATIS2:Doha Departure
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OBBI_TWR:50:4
 ATIS2:Bahrain Tower
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OBBS_TWR:50:4
 ATIS2:Isa Tower
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net(Military)
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OBKH_TWR:50:4
 ATIS2:Sahkir Tower
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net(Military)
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OTBD_TWR:50:4
 ATIS2:Doha Tower
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OTBK_TWR:50:4
 ATIS2:Al Khor Tower
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OBBI_GND:20:3
 ATIS2:Bahrain Ground
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OTBD_GND:20:3
 ATIS2:Doha Ground
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OTBK_GND:20:3
 ATIS2:Al Khor Ground
 ATIS3: Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OTHH_DEL:10:2
 ATIS2:Hamad Delivery
 ATIS3:Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OTHH_E_TWR:50:4
 ATIS2:Hamad Tower
 ATIS3:Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OTHH_W_TWR:50:4
 ATIS2:Hamad Tower
 ATIS3:Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OTHH_E_GND:10:3
 ATIS2:Hamad Ground
 ATIS3:Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 PROFILE:OTHH_W_GND:10:3
 ATIS2:Hamad Ground
 ATIS3:Report callsign and position on initial contact.
-ATIS4:For Charts and Infos visit vatbah.vatme.net
+ATIS4:Feedback: http://vatme.net/atc/feedback
 END
 TAGS
 TAGFAMILY:GSiT
