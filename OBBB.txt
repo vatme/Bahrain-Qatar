@@ -159,7 +159,7 @@ Low airways:name:6579300:3.3:0:0:8
 High airways:line:1124399:3.5:0:0:7
 High airways:name:2512998:3.0:0:0:8
 Fixes:symbol:6391851:1.0:0:0:7
-Fixes:name:6579300:3.0:0:0:1
+Fixes:name:10790052:3.0:0:0:1
 Sids:line:6579300:3.0:0:0:7
 Stars:line:8443433:3.0:2:0:7
 ARTCC high boundary:line:3030530:3.0:2:0:7
@@ -167,14 +167,14 @@ ARTCC boundary:line:4478750:3.0:4:0:7
 ARTCC low boundary:line:4478750:3.0:4:0:7
 Geo:line:16777215:3.0:0:0:7
 VORs:symbol:6391851:1.0:0:0:7
-VORs:name:6579300:3.0:0:0:14
+VORs:name:10790052:3.0:0:0:14
 VORs:frequency:6579300:2.0:0:0:2
 NDBs:symbol:6391851:1.0:0:0:7
-NDBs:name:8421504:3.0:0:0:12
+NDBs:name:10790052:3.0:0:0:12
 NDBs:frequency:8421504:3.0:0:0:0
-Runways:centerline:9539985:3.5:0:0:7
-Runways:extended centerline:3158064:3.5:2:0:7
-Runways:name:8421504:2.0:0:0:7
+Runways:centerline:14540253:3.5:0:0:7
+Runways:extended centerline:15000804:3.5:2:0:7
+Runways:name:15329769:3.5:0:0:7
 Datablock:non concerned:8388863:3.5:0:0:7
 Datablock:notified:65535:3.5:0:0:7
 Datablock:assumed:65280:3.5:0:0:7
@@ -226,7 +226,7 @@ Chat:background:526344:3.5:0:0:7
 Chat:name normal:16777215:3.5:0:0:7
 Chat:name unread:16776960:3.5:0:0:7
 Sector:line:4677893:4.0:4:1:7
-Sector:active sector background:0:3.5:0:0:7
+Sector:active sector background:3288086:3.5:0:0:7
 Sector:inactive sector background:526344:3.5:0:0:7
 SYMBOL:0
 SYMBOLITEM:MOVETO -1 -2
@@ -629,108 +629,118 @@ SYMBOLITEM:LINETO 3 -3
 m_ClipArea:7
 END
 VOICE
-AG:OBBB_CTR:126.700:rw.liveatc.net:obbb_ctr
-AG:OBBB_W_CTR:127.525:rw.liveatc.net:obbb_w_ctr
-AG:OBBB_E_CTR:132.125:rw.liveatc.net:obbb_e_ctr
-AG:OBBI_APP:127.850:rw.liveatc.net:obbi_app
-AG:OBBS_APP:124.950:rw.liveatc.net:obbs_app
-AG:OTBD_APP:121.100:rw.liveatc.net:otbd_app
-AG:OTBD_F_APP:119.400:rw.liveatc.net:otbd_f_app
-AG:OTBD_DEP:119.120:rw.liveatc.net:otbd_dep
-AG:OBBI_TWR:118.500:rw.liveatc.net:obbi_twr
-AG:OBBS_TWR:125.450:rw.liveatc.net:obbs_twr
-AG:OBKH_TWR:118.150:rw.liveatc.net:obkh_twr
-AG:OTBD_TWR:118.900:rw.liveatc.net:otbd_twr
-AG:OTBK_TWR:120.450:rw.liveatc.net:otbk_twr
-AG:OBBI_GND:121.850:rw.liveatc.net:obbi_gnd
-AG:OTBD_GND:118.650:rw.liveatc.net:otbd_gnd
-AG:OTBK_GND:118.270:rw.liveatc.net:otbk_gnd
-AG:OBBI_ATIS:127.200:rw.liveatc.net:obbi_atis
-AG:OTBD_ATIS:126.450:rw.liveatc.net:otbd_atis
-AG:OTHH_ATIS:126.850:rw.liveatc.net:othh_atis
-AG:OTHH_DEL:120.870:rw.liveatc.net:othh_del
-AG:OTHH_E_GND:120.220:rw.liveatc.net:othh_e_gnd
-AG:OTHH_W_GND:121.670:rw.liveatc.net:othh_w_gnd
-AG:OTHH_E_TWR:118.520:rw.liveatc.net:othh_e_twr
-AG:OTHH_W_TWR:118.020:rw.liveatc.net:othh_w_twr
+AG:OBBB_CTR:126.700:voice1.vatsim-germany.org:obbb_ctr
+AG:OBBB_N_CTR:126.700:voice1.vatsim-germany.org:obbb_n_ctr
+AG:OBBB_E_CTR:132.125:voice1.vatsim-germany.org:obbb_e_ctr
+AG:OBBB_EL_CTR:125.700:voice1.vatsim-germany.org:obbb_el_ctr
+AG:OBBB_C_CTR:127.525:voice1.vatsim-germany.org:obbb_c_ctr
+AG:OBBI_APP:127.850:voice1.vatsim-germany.org:obbi_app
+AG:OBBS_APP:124.950:voice1.vatsim-germany.org:obbs_app
+AG:OTBD_APP:121.100:voice1.vatsim-germany.org:otbd_app
+AG:OTBD_F_APP:119.400:voice1.vatsim-germany.org:otbd_f_app
+AG:OTBD_DEP:119.120:voice1.vatsim-germany.org:otbd_dep
+AG:OBBI_TWR:118.500:voice1.vatsim-germany.org:obbi_twr
+AG:OBBS_TWR:125.450:voice1.vatsim-germany.org:obbs_twr
+AG:OBKH_TWR:118.150:voice1.vatsim-germany.org:obkh_twr
+AG:OTBD_TWR:118.900:voice1.vatsim-germany.org:otbd_twr
+AG:OTBK_TWR:120.450:voice1.vatsim-germany.org:otbk_twr
+AG:OBBI_GND:121.850:voice1.vatsim-germany.org:obbi_gnd
+AG:OTBD_GND:118.650:voice1.vatsim-germany.org:otbd_gnd
+AG:OTBK_GND:118.270:voice1.vatsim-germany.org:otbk_gnd
+AG:OBBI_ATIS:127.200:voice1.vatsim-germany.org:obbi_atis
+AG:OTBD_ATIS:126.450:voice1.vatsim-germany.org:otbd_atis
+AG:OTHH_ATIS:126.850:voice1.vatsim-germany.org:othh_atis
+AG:OTHH_DEL:120.870:voice1.vatsim-germany.org:othh_del
+AG:OTHH_E_GND:120.220:voice1.vatsim-germany.org:othh_e_gnd
+AG:OTHH_W_GND:121.670:voice1.vatsim-germany.org:othh_w_gnd
+AG:OTHH_E_TWR:118.520:voice1.vatsim-germany.org:othh_e_twr
+AG:OTHH_W_TWR:118.020:voice1.vatsim-germany.org:othh_w_twr
 END
 PROFILE
 PROFILE:OBBB_CTR:400:6
 ATIS2:Bahrain Control
-ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
-PROFILE:OBBB_W_CTR:400:6
-ATIS2:Bahrain West Control
-ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS3:Report callsign and position on initial contact.
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OBBB_E_CTR:400:6
-ATIS2:Bahrain East Control
-ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS2:Bahrain Control
+ATIS3:Report callsign and position on initial contact.
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OBBI_APP:150:5
 ATIS2:Bahrain Approach
 ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OTBD_APP:150:5
 ATIS2:Doha Approach
 ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OTBD_DEP:150:5
 ATIS2:Doha Departure
 ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OBBI_TWR:50:4
 ATIS2:Bahrain Tower
 ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OBBS_TWR:50:4
 ATIS2:Isa Tower
 ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OBKH_TWR:50:4
 ATIS2:Sahkir Tower
 ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OTBD_TWR:50:4
 ATIS2:Doha Tower
 ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OTBK_TWR:50:4
 ATIS2:Al Khor Tower
 ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OBBI_GND:20:3
 ATIS2:Bahrain Ground
 ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OTBD_GND:20:3
 ATIS2:Doha Ground
 ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OTBK_GND:20:3
 ATIS2:Al Khor Ground
 ATIS3: Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OTHH_DEL:10:2
 ATIS2:Hamad Delivery
 ATIS3:Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OTHH_E_TWR:50:4
 ATIS2:Hamad Tower
 ATIS3:Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OTHH_W_TWR:50:4
 ATIS2:Hamad Tower
 ATIS3:Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OTHH_E_GND:10:3
 ATIS2:Hamad Ground
 ATIS3:Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
 PROFILE:OTHH_W_GND:10:3
 ATIS2:Hamad Ground
 ATIS3:Report callsign and position on initial contact.
-ATIS4:Feedback: http://vatme.net/atc/feedback
+ATIS4:Feedback at vatme.net/atc/feedback
+PROFILE:OBBB_C_CTR:400:6
+ATIS2:Bahrain Control
+ATIS3:Report callsign and position on initial contact.
+ATIS4:Feedback at vatme.net/atc/feedback
+PROFILE:OBBB_EL_CTR:400:6
+ATIS2:Bahrain Control
+ATIS3:Report callsign and position on initial contact.
+ATIS4:Feedback at vatme.net/atc/feedback
+PROFILE:OBBB_N_CTR:400:6
+ATIS2:Bahrain Control
+ATIS3:Report callsign and position on initial contact.
+ATIS4:Feedback at vatme.net/atc/feedback
 END
 TAGS
 TAGFAMILY:GSiT
@@ -1012,8 +1022,8 @@ TAGITEM:17::0:1:10:14::0:1:::1
 END
 SIL
 m_Visible:1
-m_X:986
-m_Y:659
+m_X:1306
+m_Y:684
 m_LineNumber:6
 m_Resizable:1
 m_OrderingColumn:7
@@ -1040,8 +1050,8 @@ m_Column:ASSR:5:1:60:31:31:1::::1867398211
 END
 SEL
 m_Visible:1
-m_X:333
-m_Y:660
+m_X:0
+m_Y:693
 m_LineNumber:6
 m_Resizable:1
 m_OrderingColumn:6

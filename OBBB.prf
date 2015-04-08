@@ -5,16 +5,11 @@ Settings	airlines	\DataFiles\ICAO_Airlines.txt
 Settings	airports	\DataFiles\ICAO_Airports.txt
 Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
 Settings	airways	\DataFiles\airway.txt
-LastSession	connecttype	0
 Voice	input_hardware	Wave - External Mic (IDT High Definiti
 Voice	output_hardware	Wave - Speakers and Headphones (IDT Hi
-LastSession	atis_airport	OBBI
 Voice	squelch	95.4
 Voice	PPPT	18677760
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 RecentFiles	Recent1	\OBBB.asr
-LastSession	atis2	Bahrain Control
-LastSession	atis3	 Report callsign and position on initial contact.
 Settings	AtisFolder	\UniATIS_OBBBV2\atisfiles.txt
-LastSession	atis4	For Charts and Infos visit vatbah.vatme.net

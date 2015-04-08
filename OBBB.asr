@@ -1,12 +1,11 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:OBBB.sct
+SECTORFILE:\OBBB.sct
 SECTORTITLE:OBBB.sct
 Airports:OBBI:name
 Airports:OBBS:name
 Airports:OBKH:name
-Airports:OEBQ:name
 Airports:OEBT:name
 Airports:OEDF:name
 Airports:OEDR:name
@@ -22,60 +21,34 @@ Fixes:ADARY:name
 Fixes:ADARY:symbol
 Fixes:AFNAN:name
 Fixes:AFNAN:symbol
-Fixes:ALMAL:name
-Fixes:ALMAL:symbol
-Fixes:ALSAT:name
-Fixes:ALSAT:symbol
 Fixes:ALSER:name
 Fixes:ALSER:symbol
-Fixes:ALVUN:name
-Fixes:ALVUN:symbol
 Fixes:AMBIK:name
 Fixes:AMBIK:symbol
-Fixes:ASKIM:name
-Fixes:ASKIM:symbol
 Fixes:ASLAV:name
 Fixes:ASLAV:symbol
 Fixes:ASPAN:name
 Fixes:ASPAN:symbol
 Fixes:ASTOG:name
 Fixes:ASTOG:symbol
-Fixes:AWADI:name
-Fixes:AWADI:symbol
 Fixes:BAYAN:name
 Fixes:BAYAN:symbol
-Fixes:BOROP:name
-Fixes:BOROP:symbol
 Fixes:BOXOG:name
 Fixes:BOXOG:symbol
 Fixes:BUNDU:name
 Fixes:BUNDU:symbol
 Fixes:DANAG:name
 Fixes:DANAG:symbol
-Fixes:DAVGU:name
-Fixes:DAVGU:symbol
 Fixes:DAVUS:name
 Fixes:DAVUS:symbol
 Fixes:DEDAS:name
 Fixes:DEDAS:symbol
-Fixes:DELMU:name
-Fixes:DELMU:symbol
 Fixes:DENSI:name
 Fixes:DENSI:symbol
-Fixes:DETKO:name
-Fixes:DETKO:symbol
 Fixes:DUSTA:name
 Fixes:DUSTA:symbol
-Fixes:EGNOV:name
-Fixes:EGNOV:symbol
-Fixes:EMENI:name
-Fixes:EMENI:symbol
-Fixes:EMILU:name
-Fixes:EMILU:symbol
 Fixes:GASSI:name
 Fixes:GASSI:symbol
-Fixes:GEPAK:name
-Fixes:GEPAK:symbol
 Fixes:GEVAL:name
 Fixes:GEVAL:symbol
 Fixes:GODNI:name
@@ -86,26 +59,16 @@ Fixes:IMRUN:name
 Fixes:IMRUN:symbol
 Fixes:ITORA:name
 Fixes:ITORA:symbol
-Fixes:IVONI:name
-Fixes:IVONI:symbol
 Fixes:JALYD:name
 Fixes:JALYD:symbol
-Fixes:KEDAT:name
-Fixes:KEDAT:symbol
 Fixes:KIRAR:name
 Fixes:KIRAR:symbol
 Fixes:KODAG:name
 Fixes:KODAG:symbol
 Fixes:KUMBO:name
 Fixes:KUMBO:symbol
-Fixes:KUNRU:name
-Fixes:KUNRU:symbol
 Fixes:KUPSA:name
 Fixes:KUPSA:symbol
-Fixes:KUSAR:name
-Fixes:KUSAR:symbol
-Fixes:KUTEM:name
-Fixes:KUTEM:symbol
 Fixes:KUVER:name
 Fixes:KUVER:symbol
 Fixes:LABAB:name
@@ -114,66 +77,40 @@ Fixes:LAGNO:name
 Fixes:LAGNO:symbol
 Fixes:LONOS:name
 Fixes:LONOS:symbol
-Fixes:LOTIT:name
-Fixes:LOTIT:symbol
 Fixes:LUBED:name
 Fixes:LUBED:symbol
-Fixes:LUGAL:name
-Fixes:LUGAL:symbol
 Fixes:MARWA:name
 Fixes:MARWA:symbol
 Fixes:MEKMA:name
 Fixes:MEKMA:symbol
-Fixes:MEMBO:name
-Fixes:MEMBO:symbol
 Fixes:MIDSI:name
 Fixes:MIDSI:symbol
-Fixes:MUNTI:name
-Fixes:MUNTI:symbol
-Fixes:MUSKO:name
-Fixes:MUSKO:symbol
-Fixes:MUTAR:name
-Fixes:MUTAR:symbol
 Fixes:NAGER:name
 Fixes:NAGER:symbol
 Fixes:NAJMA:name
 Fixes:NAJMA:symbol
 Fixes:NAMLA:name
 Fixes:NAMLA:symbol
-Fixes:NANSU:name
-Fixes:NANSU:symbol
 Fixes:PEGUN:name
 Fixes:PEGUN:symbol
 Fixes:PUVDA:name
 Fixes:PUVDA:symbol
 Fixes:RABAP:name
 Fixes:RABAP:symbol
-Fixes:RADMA:name
-Fixes:RADMA:symbol
 Fixes:RAGEP:name
 Fixes:RAGEP:symbol
 Fixes:RAMSI:name
 Fixes:RAMSI:symbol
 Fixes:RAZAN:name
 Fixes:RAZAN:symbol
-Fixes:RIGIG:name
-Fixes:RIGIG:symbol
-Fixes:RULEX:name
-Fixes:RULEX:symbol
 Fixes:SALWA:name
 Fixes:SALWA:symbol
 Fixes:SAMYA:name
 Fixes:SAMYA:symbol
-Fixes:SESNA:name
-Fixes:SESNA:symbol
-Fixes:SILNO:name
-Fixes:SILNO:symbol
 Fixes:SIMDA:name
 Fixes:SIMDA:symbol
 Fixes:SOLEM:name
 Fixes:SOLEM:symbol
-Fixes:TANDA:name
-Fixes:TANDA:symbol
 Fixes:TARPA:name
 Fixes:TARPA:symbol
 Fixes:TESSO:name
@@ -188,10 +125,6 @@ Fixes:TOTNO:name
 Fixes:TOTNO:symbol
 Fixes:TYLOS:name
 Fixes:TYLOS:symbol
-Fixes:UMAMA:name
-Fixes:UMAMA:symbol
-Free Text:Default group\OEDR:freetext
-Free Text:Default group\OTHH:freetext
 Free Text:Group\OBBI:freetext
 Free Text:Group\OEDF:freetext
 Free Text:Group\OEJD:freetext
@@ -880,214 +813,86 @@ Geo:GEO:
 Geo:OBBI:
 Geo:OTBD:
 Geo:OTHH:
-Runways:OBBI Bahrain Intl 12L-30R:centerline
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 1
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 1 left base
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 1 left ticks
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 1 left vectoring
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 1 right base
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 1 right ticks
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 1 right vectoring
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 2
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 2 left base
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 2 left ticks
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 2 left vectoring
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 2 right base
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 2 right ticks
-Runways:OBBI Bahrain Intl 12L-30R:extended centerline 2 right vectoring
-Runways:OBBI Bahrain Intl 12L-30R:name
-Runways:OBBI Bahrain Intl 12R-30L:centerline
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 1
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 1 left base
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 1 left ticks
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 1 left vectoring
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 1 right base
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 1 right ticks
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 1 right vectoring
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 2
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 2 left base
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 2 left ticks
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 2 left vectoring
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 2 right base
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 2 right ticks
-Runways:OBBI Bahrain Intl 12R-30L:extended centerline 2 right vectoring
-Runways:OBBI Bahrain Intl 12R-30L:name
-Runways:OBBS Isa AB 15-33:centerline
-Runways:OBBS Isa AB 15-33:extended centerline 1
-Runways:OBBS Isa AB 15-33:extended centerline 1 left base
-Runways:OBBS Isa AB 15-33:extended centerline 1 left ticks
-Runways:OBBS Isa AB 15-33:extended centerline 1 left vectoring
-Runways:OBBS Isa AB 15-33:extended centerline 1 right base
-Runways:OBBS Isa AB 15-33:extended centerline 1 right ticks
-Runways:OBBS Isa AB 15-33:extended centerline 1 right vectoring
-Runways:OBBS Isa AB 15-33:extended centerline 2
-Runways:OBBS Isa AB 15-33:extended centerline 2 left base
-Runways:OBBS Isa AB 15-33:extended centerline 2 left ticks
-Runways:OBBS Isa AB 15-33:extended centerline 2 left vectoring
-Runways:OBBS Isa AB 15-33:extended centerline 2 right base
-Runways:OBBS Isa AB 15-33:extended centerline 2 right ticks
-Runways:OBBS Isa AB 15-33:extended centerline 2 right vectoring
-Runways:OBBS Isa AB 15-33:name
-Runways:OBKH Sakhir AB 17-35:centerline
-Runways:OBKH Sakhir AB 17-35:extended centerline 1
-Runways:OBKH Sakhir AB 17-35:extended centerline 1 left base
-Runways:OBKH Sakhir AB 17-35:extended centerline 1 left ticks
-Runways:OBKH Sakhir AB 17-35:extended centerline 1 left vectoring
-Runways:OBKH Sakhir AB 17-35:extended centerline 1 right base
-Runways:OBKH Sakhir AB 17-35:extended centerline 1 right ticks
-Runways:OBKH Sakhir AB 17-35:extended centerline 1 right vectoring
-Runways:OBKH Sakhir AB 17-35:extended centerline 2
-Runways:OBKH Sakhir AB 17-35:extended centerline 2 left base
-Runways:OBKH Sakhir AB 17-35:extended centerline 2 left ticks
-Runways:OBKH Sakhir AB 17-35:extended centerline 2 left vectoring
-Runways:OBKH Sakhir AB 17-35:extended centerline 2 right base
-Runways:OBKH Sakhir AB 17-35:extended centerline 2 right ticks
-Runways:OBKH Sakhir AB 17-35:extended centerline 2 right vectoring
-Runways:OBKH Sakhir AB 17-35:name
-Runways:OEBQ Abquaiq 15-33:centerline
-Runways:OEBQ Abquaiq 15-33:extended centerline 1
-Runways:OEBQ Abquaiq 15-33:extended centerline 1 left base
-Runways:OEBQ Abquaiq 15-33:extended centerline 1 left ticks
-Runways:OEBQ Abquaiq 15-33:extended centerline 1 left vectoring
-Runways:OEBQ Abquaiq 15-33:extended centerline 1 right base
-Runways:OEBQ Abquaiq 15-33:extended centerline 1 right ticks
-Runways:OEBQ Abquaiq 15-33:extended centerline 1 right vectoring
-Runways:OEBQ Abquaiq 15-33:extended centerline 2
-Runways:OEBQ Abquaiq 15-33:extended centerline 2 left base
-Runways:OEBQ Abquaiq 15-33:extended centerline 2 left ticks
-Runways:OEBQ Abquaiq 15-33:extended centerline 2 left vectoring
-Runways:OEBQ Abquaiq 15-33:extended centerline 2 right base
-Runways:OEBQ Abquaiq 15-33:extended centerline 2 right ticks
-Runways:OEBQ Abquaiq 15-33:extended centerline 2 right vectoring
-Runways:OEBQ Abquaiq 15-33:name
-Runways:OEBT BATHA 14-32:centerline
-Runways:OEBT BATHA 14-32:extended centerline 1
-Runways:OEBT BATHA 14-32:extended centerline 1 left base
-Runways:OEBT BATHA 14-32:extended centerline 1 left ticks
-Runways:OEBT BATHA 14-32:extended centerline 1 left vectoring
-Runways:OEBT BATHA 14-32:extended centerline 1 right base
-Runways:OEBT BATHA 14-32:extended centerline 1 right ticks
-Runways:OEBT BATHA 14-32:extended centerline 1 right vectoring
-Runways:OEBT BATHA 14-32:extended centerline 2
-Runways:OEBT BATHA 14-32:extended centerline 2 left base
-Runways:OEBT BATHA 14-32:extended centerline 2 left ticks
-Runways:OEBT BATHA 14-32:extended centerline 2 left vectoring
-Runways:OEBT BATHA 14-32:extended centerline 2 right base
-Runways:OEBT BATHA 14-32:extended centerline 2 right ticks
-Runways:OEBT BATHA 14-32:extended centerline 2 right vectoring
-Runways:OEBT BATHA 14-32:name
-Runways:OEDF King Fahd Intl 16L-34R:centerline
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 1
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 1 left base
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 1 left ticks
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 1 left vectoring
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 1 right base
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 1 right ticks
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 1 right vectoring
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 2
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 2 left base
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 2 left ticks
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 2 left vectoring
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 2 right base
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 2 right ticks
-Runways:OEDF King Fahd Intl 16L-34R:extended centerline 2 right vectoring
-Runways:OEDF King Fahd Intl 16L-34R:name
-Runways:OEDF King Fahd Intl 16R-34L:centerline
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 1
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 1 left base
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 1 left ticks
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 1 left vectoring
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 1 right base
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 1 right ticks
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 1 right vectoring
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 2
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 2 left base
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 2 left ticks
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 2 left vectoring
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 2 right base
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 2 right ticks
-Runways:OEDF King Fahd Intl 16R-34L:extended centerline 2 right vectoring
-Runways:OEDF King Fahd Intl 16R-34L:name
-Runways:OEDR Dhahran 16L-34R:centerline
-Runways:OEDR Dhahran 16L-34R:extended centerline 1
-Runways:OEDR Dhahran 16L-34R:extended centerline 1 left base
-Runways:OEDR Dhahran 16L-34R:extended centerline 1 left ticks
-Runways:OEDR Dhahran 16L-34R:extended centerline 1 left vectoring
-Runways:OEDR Dhahran 16L-34R:extended centerline 1 right base
-Runways:OEDR Dhahran 16L-34R:extended centerline 1 right ticks
-Runways:OEDR Dhahran 16L-34R:extended centerline 1 right vectoring
-Runways:OEDR Dhahran 16L-34R:extended centerline 2
-Runways:OEDR Dhahran 16L-34R:extended centerline 2 left base
-Runways:OEDR Dhahran 16L-34R:extended centerline 2 left ticks
-Runways:OEDR Dhahran 16L-34R:extended centerline 2 left vectoring
-Runways:OEDR Dhahran 16L-34R:extended centerline 2 right base
-Runways:OEDR Dhahran 16L-34R:extended centerline 2 right ticks
-Runways:OEDR Dhahran 16L-34R:extended centerline 2 right vectoring
-Runways:OEDR Dhahran 16L-34R:name
-Runways:OEDR Dhahran 16R-34L:centerline
-Runways:OEDR Dhahran 16R-34L:extended centerline 1
-Runways:OEDR Dhahran 16R-34L:extended centerline 1 left base
-Runways:OEDR Dhahran 16R-34L:extended centerline 1 left ticks
-Runways:OEDR Dhahran 16R-34L:extended centerline 1 left vectoring
-Runways:OEDR Dhahran 16R-34L:extended centerline 1 right base
-Runways:OEDR Dhahran 16R-34L:extended centerline 1 right ticks
-Runways:OEDR Dhahran 16R-34L:extended centerline 1 right vectoring
-Runways:OEDR Dhahran 16R-34L:extended centerline 2
-Runways:OEDR Dhahran 16R-34L:extended centerline 2 left base
-Runways:OEDR Dhahran 16R-34L:extended centerline 2 left ticks
-Runways:OEDR Dhahran 16R-34L:extended centerline 2 left vectoring
-Runways:OEDR Dhahran 16R-34L:extended centerline 2 right base
-Runways:OEDR Dhahran 16R-34L:extended centerline 2 right ticks
-Runways:OEDR Dhahran 16R-34L:extended centerline 2 right vectoring
-Runways:OEDR Dhahran 16R-34L:name
-Runways:OEJB Jubail 17-35:centerline
-Runways:OEJB Jubail 17-35:extended centerline 1
-Runways:OEJB Jubail 17-35:extended centerline 1 left base
-Runways:OEJB Jubail 17-35:extended centerline 1 left ticks
-Runways:OEJB Jubail 17-35:extended centerline 1 left vectoring
-Runways:OEJB Jubail 17-35:extended centerline 1 right base
-Runways:OEJB Jubail 17-35:extended centerline 1 right ticks
-Runways:OEJB Jubail 17-35:extended centerline 1 right vectoring
-Runways:OEJB Jubail 17-35:extended centerline 2
-Runways:OEJB Jubail 17-35:extended centerline 2 left base
-Runways:OEJB Jubail 17-35:extended centerline 2 left ticks
-Runways:OEJB Jubail 17-35:extended centerline 2 left vectoring
-Runways:OEJB Jubail 17-35:extended centerline 2 right base
-Runways:OEJB Jubail 17-35:extended centerline 2 right ticks
-Runways:OEJB Jubail 17-35:extended centerline 2 right vectoring
-Runways:OEJB Jubail 17-35:name
-Runways:OERT RAS TANURA 15-33:centerline
-Runways:OERT RAS TANURA 15-33:extended centerline 1
-Runways:OERT RAS TANURA 15-33:extended centerline 1 left base
-Runways:OERT RAS TANURA 15-33:extended centerline 1 left ticks
-Runways:OERT RAS TANURA 15-33:extended centerline 1 left vectoring
-Runways:OERT RAS TANURA 15-33:extended centerline 1 right base
-Runways:OERT RAS TANURA 15-33:extended centerline 1 right ticks
-Runways:OERT RAS TANURA 15-33:extended centerline 1 right vectoring
-Runways:OERT RAS TANURA 15-33:extended centerline 2
-Runways:OERT RAS TANURA 15-33:extended centerline 2 left base
-Runways:OERT RAS TANURA 15-33:extended centerline 2 left ticks
-Runways:OERT RAS TANURA 15-33:extended centerline 2 left vectoring
-Runways:OERT RAS TANURA 15-33:extended centerline 2 right base
-Runways:OERT RAS TANURA 15-33:extended centerline 2 right ticks
-Runways:OERT RAS TANURA 15-33:extended centerline 2 right vectoring
-Runways:OERT RAS TANURA 15-33:name
-Runways:OTBD Doha Intl 15-33:centerline
-Runways:OTBD Doha Intl 15-33:extended centerline 1
-Runways:OTBD Doha Intl 15-33:extended centerline 1 left base
-Runways:OTBD Doha Intl 15-33:extended centerline 1 left ticks
-Runways:OTBD Doha Intl 15-33:extended centerline 1 left vectoring
-Runways:OTBD Doha Intl 15-33:extended centerline 1 right base
-Runways:OTBD Doha Intl 15-33:extended centerline 1 right ticks
-Runways:OTBD Doha Intl 15-33:extended centerline 1 right vectoring
-Runways:OTBD Doha Intl 15-33:extended centerline 2
-Runways:OTBD Doha Intl 15-33:extended centerline 2 left base
-Runways:OTBD Doha Intl 15-33:extended centerline 2 left ticks
-Runways:OTBD Doha Intl 15-33:extended centerline 2 left vectoring
-Runways:OTBD Doha Intl 15-33:extended centerline 2 right base
-Runways:OTBD Doha Intl 15-33:extended centerline 2 right ticks
-Runways:OTBD Doha Intl 15-33:extended centerline 2 right vectoring
-Runways:OTBD Doha Intl 15-33:name
+Runways:OBBI BAHRAIN INTL 12L-30R:centerline
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 1
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 1 left base
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 1 left ticks
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 1 left vectoring
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 1 right base
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 1 right ticks
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 1 right vectoring
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 2
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 2 left base
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 2 left ticks
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 2 left vectoring
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 2 right base
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 2 right ticks
+Runways:OBBI BAHRAIN INTL 12L-30R:extended centerline 2 right vectoring
+Runways:OBBI BAHRAIN INTL 12L-30R:name
+Runways:OBBI BAHRAIN INTL 12R-30L:centerline
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 1
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 1 left base
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 1 left ticks
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 1 left vectoring
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 1 right base
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 1 right ticks
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 1 right vectoring
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 2
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 2 left base
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 2 left ticks
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 2 left vectoring
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 2 right base
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 2 right ticks
+Runways:OBBI BAHRAIN INTL 12R-30L:extended centerline 2 right vectoring
+Runways:OBBI BAHRAIN INTL 12R-30L:name
+Runways:OBBS ISA AB 15-33:centerline
+Runways:OBBS ISA AB 15-33:extended centerline 1
+Runways:OBBS ISA AB 15-33:extended centerline 1 left base
+Runways:OBBS ISA AB 15-33:extended centerline 1 left ticks
+Runways:OBBS ISA AB 15-33:extended centerline 1 left vectoring
+Runways:OBBS ISA AB 15-33:extended centerline 1 right base
+Runways:OBBS ISA AB 15-33:extended centerline 1 right ticks
+Runways:OBBS ISA AB 15-33:extended centerline 1 right vectoring
+Runways:OBBS ISA AB 15-33:extended centerline 2
+Runways:OBBS ISA AB 15-33:extended centerline 2 left base
+Runways:OBBS ISA AB 15-33:extended centerline 2 left ticks
+Runways:OBBS ISA AB 15-33:extended centerline 2 left vectoring
+Runways:OBBS ISA AB 15-33:extended centerline 2 right base
+Runways:OBBS ISA AB 15-33:extended centerline 2 right ticks
+Runways:OBBS ISA AB 15-33:extended centerline 2 right vectoring
+Runways:OBBS ISA AB 15-33:name
+Runways:OBKH SAKHIR AB 17-35:centerline
+Runways:OBKH SAKHIR AB 17-35:extended centerline 1
+Runways:OBKH SAKHIR AB 17-35:extended centerline 1 left base
+Runways:OBKH SAKHIR AB 17-35:extended centerline 1 left ticks
+Runways:OBKH SAKHIR AB 17-35:extended centerline 1 left vectoring
+Runways:OBKH SAKHIR AB 17-35:extended centerline 1 right base
+Runways:OBKH SAKHIR AB 17-35:extended centerline 1 right ticks
+Runways:OBKH SAKHIR AB 17-35:extended centerline 1 right vectoring
+Runways:OBKH SAKHIR AB 17-35:extended centerline 2
+Runways:OBKH SAKHIR AB 17-35:extended centerline 2 left base
+Runways:OBKH SAKHIR AB 17-35:extended centerline 2 left ticks
+Runways:OBKH SAKHIR AB 17-35:extended centerline 2 left vectoring
+Runways:OBKH SAKHIR AB 17-35:extended centerline 2 right base
+Runways:OBKH SAKHIR AB 17-35:extended centerline 2 right ticks
+Runways:OBKH SAKHIR AB 17-35:extended centerline 2 right vectoring
+Runways:OBKH SAKHIR AB 17-35:name
+Runways:OTBD DOHA INTL 15-33:centerline
+Runways:OTBD DOHA INTL 15-33:extended centerline 1
+Runways:OTBD DOHA INTL 15-33:extended centerline 1 left base
+Runways:OTBD DOHA INTL 15-33:extended centerline 1 left ticks
+Runways:OTBD DOHA INTL 15-33:extended centerline 1 left vectoring
+Runways:OTBD DOHA INTL 15-33:extended centerline 1 right base
+Runways:OTBD DOHA INTL 15-33:extended centerline 1 right ticks
+Runways:OTBD DOHA INTL 15-33:extended centerline 1 right vectoring
+Runways:OTBD DOHA INTL 15-33:extended centerline 2
+Runways:OTBD DOHA INTL 15-33:extended centerline 2 left base
+Runways:OTBD DOHA INTL 15-33:extended centerline 2 left ticks
+Runways:OTBD DOHA INTL 15-33:extended centerline 2 left vectoring
+Runways:OTBD DOHA INTL 15-33:extended centerline 2 right base
+Runways:OTBD DOHA INTL 15-33:extended centerline 2 right ticks
+Runways:OTBD DOHA INTL 15-33:extended centerline 2 right vectoring
+Runways:OTBD DOHA INTL 15-33:name
 Runways:OTBH AL UDEID AB 16-34:centerline
 Runways:OTBH AL UDEID AB 16-34:extended centerline 1
 Runways:OTBH AL UDEID AB 16-34:extended centerline 1 left base
@@ -1104,26 +909,57 @@ Runways:OTBH AL UDEID AB 16-34:extended centerline 2 right base
 Runways:OTBH AL UDEID AB 16-34:extended centerline 2 right ticks
 Runways:OTBH AL UDEID AB 16-34:extended centerline 2 right vectoring
 Runways:OTBH AL UDEID AB 16-34:name
-Runways:OTBK Al Khor 14-32:centerline
-Runways:OTBK Al Khor 14-32:extended centerline 1
-Runways:OTBK Al Khor 14-32:extended centerline 1 left base
-Runways:OTBK Al Khor 14-32:extended centerline 1 left ticks
-Runways:OTBK Al Khor 14-32:extended centerline 1 left vectoring
-Runways:OTBK Al Khor 14-32:extended centerline 1 right base
-Runways:OTBK Al Khor 14-32:extended centerline 1 right ticks
-Runways:OTBK Al Khor 14-32:extended centerline 1 right vectoring
-Runways:OTBK Al Khor 14-32:extended centerline 2
-Runways:OTBK Al Khor 14-32:extended centerline 2 left base
-Runways:OTBK Al Khor 14-32:extended centerline 2 left ticks
-Runways:OTBK Al Khor 14-32:extended centerline 2 left vectoring
-Runways:OTBK Al Khor 14-32:extended centerline 2 right base
-Runways:OTBK Al Khor 14-32:extended centerline 2 right ticks
-Runways:OTBK Al Khor 14-32:extended centerline 2 right vectoring
-Runways:OTBK Al Khor 14-32:name
+Runways:OTBK AL KHOR 14-32:centerline
+Runways:OTBK AL KHOR 14-32:extended centerline 1
+Runways:OTBK AL KHOR 14-32:extended centerline 1 left base
+Runways:OTBK AL KHOR 14-32:extended centerline 1 left ticks
+Runways:OTBK AL KHOR 14-32:extended centerline 1 left vectoring
+Runways:OTBK AL KHOR 14-32:extended centerline 1 right base
+Runways:OTBK AL KHOR 14-32:extended centerline 1 right ticks
+Runways:OTBK AL KHOR 14-32:extended centerline 1 right vectoring
+Runways:OTBK AL KHOR 14-32:extended centerline 2
+Runways:OTBK AL KHOR 14-32:extended centerline 2 left base
+Runways:OTBK AL KHOR 14-32:extended centerline 2 left ticks
+Runways:OTBK AL KHOR 14-32:extended centerline 2 left vectoring
+Runways:OTBK AL KHOR 14-32:extended centerline 2 right base
+Runways:OTBK AL KHOR 14-32:extended centerline 2 right ticks
+Runways:OTBK AL KHOR 14-32:extended centerline 2 right vectoring
+Runways:OTBK AL KHOR 14-32:name
+Runways:OTHH HAMAD INTL 16L-34R:centerline
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 1
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 1 left base
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 1 left ticks
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 1 left vectoring
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 1 right base
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 1 right ticks
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 1 right vectoring
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 2
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 2 left base
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 2 left ticks
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 2 left vectoring
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 2 right base
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 2 right ticks
+Runways:OTHH HAMAD INTL 16L-34R:extended centerline 2 right vectoring
+Runways:OTHH HAMAD INTL 16L-34R:name
+Runways:OTHH HAMAD INTL 16R-34L:centerline
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 1
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 1 left base
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 1 left ticks
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 1 left vectoring
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 1 right base
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 1 right ticks
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 1 right vectoring
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 2
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 2 left base
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 2 left ticks
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 2 left vectoring
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 2 right base
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 2 right ticks
+Runways:OTHH HAMAD INTL 16R-34L:extended centerline 2 right vectoring
+Runways:OTHH HAMAD INTL 16R-34L:name
 VORs:ALD:symbol
 VORs:BAH:symbol
 VORs:BAT:symbol
-VORs:BHT:symbol
 VORs:DHA:symbol
 VORs:DOH:symbol
 VORs:JBL:symbol
@@ -1141,4 +977,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:GSiT
-WINDOWAREA:21.145672:40.313033:31.381824:63.663753
+WINDOWAREA:22.885430:44.020287:29.465149:58.965949
