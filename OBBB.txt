@@ -629,7 +629,7 @@ SYMBOLITEM:LINETO 3 -3
 m_ClipArea:7
 END
 VOICE
-AG:OBBB_CTR:126.700:voice1.vatsim-germany.org:obbb_ctr
+AG:OBBB_CTR:126.750:voice1.vatsim-germany.org:obbb_ctr
 AG:OBBB_N_CTR:126.700:voice1.vatsim-germany.org:obbb_n_ctr
 AG:OBBB_E_CTR:132.125:voice1.vatsim-germany.org:obbb_e_ctr
 AG:OBBB_EL_CTR:125.700:voice1.vatsim-germany.org:obbb_el_ctr
