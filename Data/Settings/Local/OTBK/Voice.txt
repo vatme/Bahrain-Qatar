@@ -1,0 +1,4 @@
+VOICE
+AG:Al-Khor Tower:120.450:voice1.vatsim-germany.org:OTBK_TWR
+AG:Al-Khor Ground:121.975:voice1.vatsim-germany.org:OTBK_GND
+END

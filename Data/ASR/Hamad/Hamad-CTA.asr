@@ -1,0 +1,73 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:Bahrain-Qatar-master\Data\Sector\Bahrain.sct
+SECTORTITLE:Bahrain.sct
+ARTCC boundary:Bahrain ACC:
+ARTCC high boundary:Bahrain ACC Central:
+ARTCC high boundary:Bahrain ACC North:
+ARTCC high boundary:Bahrain ACC South:
+ARTCC high boundary:U.A.E ACC North LoA:
+ARTCC high boundary:U.A.E ACC South LoA:
+ARTCC low boundary:Bahrain CTA:
+ARTCC low boundary:Bahrain TMA:
+ARTCC low boundary:OTHH CTA:
+ARTCC low boundary:OTHH TMA 1:
+ARTCC low boundary:OTHH TMA 2:
+ARTCC low boundary:OTHH TMA 3:
+ARTCC low boundary:OTHH TMA 4:
+ARTCC low boundary:OTHH TMA 5:
+Fixes:AFNAN:name
+Fixes:AFNAN:symbol
+Fixes:ASTIM:name
+Fixes:ASTIM:symbol
+Fixes:BAYAN:name
+Fixes:BAYAN:symbol
+Fixes:DANIK:name
+Fixes:DANIK:symbol
+Fixes:DATMO:name
+Fixes:DATMO:symbol
+Fixes:EGNUG:name
+Fixes:EGNUG:symbol
+Fixes:GINTO:name
+Fixes:GINTO:symbol
+Fixes:GOLSI:name
+Fixes:GOLSI:symbol
+Fixes:IMKAT:name
+Fixes:IMKAT:symbol
+Fixes:IVANI:name
+Fixes:IVANI:symbol
+Fixes:LAGNO:name
+Fixes:LAGNO:symbol
+Fixes:MUSAN:name
+Fixes:MUSAN:symbol
+Fixes:MUVEX:name
+Fixes:MUVEX:symbol
+Fixes:OTIDA:name
+Fixes:OTIDA:symbol
+Fixes:PUTAN:name
+Fixes:PUTAN:symbol
+Fixes:PUXEL:name
+Fixes:PUXEL:symbol
+Fixes:SIDMU:name
+Fixes:SIDMU:symbol
+Fixes:TANDO:name
+Fixes:TANDO:symbol
+Fixes:TOVAN:name
+Fixes:TOVAN:symbol
+Regions:BahrainTerrain:polygon
+Regions:DohaTerrain:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:800
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:COOPANS_DK/SE
+WINDOWAREA:24.940568:50.888779:25.602355:52.266330

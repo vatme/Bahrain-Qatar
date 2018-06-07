@@ -1,0 +1,14 @@
+PROFILE
+PROFILE:OBBI_APP:150:5
+ATIS2:"Bahrain Approach"
+ATIS3:Report Callsign, Altitude & Position on Initial Contact
+ATIS4:Charts & Procedures @ wwww.vatame.org/vacc/OBBB
+PROFILE:OBBI_TWR:100:4
+ATIS2:"Bahrain Tower"
+ATIS3:Report Callsign & Aircraft Type on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OBBI_GND:80:3
+ATIS2:"Bahrain Ground"
+ATIS3:Report Callsign & Stand on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+END

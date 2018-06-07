@@ -1,0 +1,4 @@
+VOICE
+AG:Isa-Airbase Approach Radar:124.950:voice1.vatsim-germany.org:OBBS_APP
+AG:Isa-Airbase Tower:124.450:voice1.vatsim-germany.org:OBBS_TWR
+END

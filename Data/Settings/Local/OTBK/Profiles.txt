@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:OTBK_TWR:100:4
+ATIS2:"Al-Khor Tower"
+ATIS3:Report Callsign & Aircraft Type on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OTBK_GND:80:3
+ATIS2:"Al-Khor Ground"
+ATIS3:Report Callsign & Aircraft Type on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+END

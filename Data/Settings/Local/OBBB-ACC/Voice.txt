@@ -1,0 +1,11 @@
+VOICE
+AG:Bahrain Control [Bandbox]:126.750:voice1.vatsim-germany.org:OBBB_CTR
+AG:Bahrain Control [Upper]:128.750:voice1.vatsim-germany.org:OBBB_U_CTR
+AG:Bahrain Control [North]:126.700:voice1.vatsim-germany.org:OBBB_N_CTR
+AG:Bahrain Control [Central]:127.520:voice1.vatsim-germany.org:OBBB_C_CTR
+AG:Bahrain Control [East]:132.120:voice1.vatsim-germany.org:OBBB_E_CTR
+AG:Bahrain Control [South]:125.700:voice1.vatsim-germany.org:OBBB_S_CTR
+AG:Bahrain Automatic Terminal Information Service:127.200:voice1.vatsim-germany.org:OBBI_ATIS
+AG:Hamad Automatic Terminal Information Service:126.850:voice1.vatsim-germany.org:OTHH_ATIS
+AG:Doha Automatic Terminal Information Service:126.450:voice1.vatsim-germany.org:OTBD_ATIS
+END

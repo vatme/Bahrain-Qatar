@@ -1,0 +1,42 @@
+PROFILE
+PROFILE:OBBB_CTR:250:6
+ATIS2:"Bahrain Control"
+ATIS3:Report Callsign, Altitude & Position on initial contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OBBB_U_CTR:250:6
+ATIS2:"Bahrain Control" | UPPER Control above FL245
+ATIS3:Report Callsign, Altitude & Position on initial contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OBBB_N_CTR:150:6
+ATIS2:"Bahrain Control"
+ATIS3:Report Callsign, Altitude & Position on initial contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OBBB_NL_CTR:150:6
+ATIS2:"Bahrain Control"
+ATIS3:Report Callsign, Altitude & Position on initial contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OBBB_C_CTR:150:6
+ATIS2:"Bahrain Control"
+ATIS3:Report Callsign, Altitude & Position on initial contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OBBB_CL_CTR:150:6
+ATIS2:"Bahrain Control"
+ATIS3:Report Callsign, Altitude & Position on initial contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OBBB_E_CTR:150:6
+ATIS2:"Bahrain Control"
+ATIS3:Report Callsign, Altitude & Position on initial contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OBBB_EL_CTR:150:6
+ATIS2:"Bahrain Control"
+ATIS3:Report Callsign, Altitude & Position on initial contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OBBB_S_CTR:150:6
+ATIS2:"Bahrain Control"
+ATIS3:Report Callsign, Altitude & Position on initial contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OBBB_SL_CTR:150:6
+ATIS2:"Bahrain Control"
+ATIS3:Report Callsign, Altitude & Position on initial contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+END

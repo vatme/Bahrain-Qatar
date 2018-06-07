@@ -1,0 +1,30 @@
+VOICE
+AG:Bahrain Control [Bandbox]:126.750:voice1.vatsim-germany.org:OBBB_CTR
+AG:Bahrain Control [Upper]:128.750:voice1.vatsim-germany.org:OBBB_U_CTR
+AG:Bahrain Control [North]:126.700:voice1.vatsim-germany.org:OBBB_N_CTR
+AG:Bahrain Control [Central]:127.520:voice1.vatsim-germany.org:OBBB_C_CTR
+AG:Bahrain Control [East]:132.120:voice1.vatsim-germany.org:OBBB_E_CTR
+AG:Bahrain Control [South]:125.700:voice1.vatsim-germany.org:OBBB_S_CTR
+AG:Bahrain Approach:127.850:voice1.vatsim-germany.org:OBBI_APP
+AG:Bahrain Tower:118.500:voice1.vatsim-germany.org:OBBI_TWR
+AG:Bahrain Ground:121.850:voice1.vatsim-germany.org:OBBI_GND
+AG:Bahrain Automatic Terminal Information Service:127.200:voice1.vatsim-germany.org:OBBI_ATIS
+AG:Isa-Airbase Approach Radar:124.950:voice1.vatsim-germany.org:OBBS_APP
+AG:Isa-Airbase Tower:124.450:voice1.vatsim-germany.org:OBBS_TWR
+AG:Sakhir Tower:118.150:voice1.vatsim-germany.org:OBKH_TWR
+AG:Doha Tower:118.900:voice1.vatsim-germany.org:OTBD_TWR
+AG:Doha Ground:121.950:voice1.vatsim-germany.org:OTBD_GND
+AG:Doha Automatic Terminal Information Service:126.450:voice1.vatsim-germany.org:OTBD_ATIS
+AG:Al-Khor Tower:120.450:voice1.vatsim-germany.org:OTBK_TWR
+AG:Al-Khor Ground:121.975:voice1.vatsim-germany.org:OTBK_GND
+AG:Doha Radar:121.100:voice1.vatsim-germany.org:DOH_APP
+AG:Doha Approach:118.725:voice1.vatsim-germany.org:OTHH_APP
+AG:Hamad Tower:118.225:voice1.vatsim-germany.org:OTHH_TWR
+AG:Hamad Tower [East]:118.525:voice1.vatsim-germany.org:OTHH_E_TWR
+AG:Hamad Tower [West]:118.025:voice1.vatsim-germany.org:OTHH_W_TWR
+AG:Hamad Ground:121.675:voice1.vatsim-germany.org:OTHH_GND
+AG:Hamad Ground [East]:120.225:voice1.vatsim-germany.org:OTHH_E_GND
+AG:Hamad Ground [West]:118.650:voice1.vatsim-germany.org:OTHH_W_GND
+AG:Hamad Clearance Delivery:120.875:voice1.vatsim-germany.org:OTHH_DEL
+AG:Hamad Automatic Terminal Information Service:126.850:voice1.vatsim-germany.org:OTHH_ATIS
+END

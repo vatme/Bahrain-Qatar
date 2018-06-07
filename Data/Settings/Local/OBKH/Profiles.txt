@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:OBKH_TWR:100:4
+ATIS2:"Sakhir Tower"
+ATIS3:Report Callsign & Aircraft Type on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+END

@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:OBBS_APP:150:5
+ATIS2:"Isa-Airbase Approach Radar"
+ATIS3:Report Callsign, Altitude & Position on Initial Contact
+ATIS4:Charts & Procedures @ wwww.vatame.org/vacc/OBBB
+PROFILE:OBBS_TWR:100:4
+ATIS2:"Isa-Airbase Tower"
+ATIS3:Report Callsign & Aircraft Type on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+END

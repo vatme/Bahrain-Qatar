@@ -1,0 +1,12 @@
+VOICE
+AG:Doha Radar:121.100:voice1.vatsim-germany.org:DOH_APP
+AG:Doha Approach:118.725:voice1.vatsim-germany.org:OTHH_APP
+AG:Hamad Tower:118.225:voice1.vatsim-germany.org:OTHH_TWR
+AG:Hamad Tower [East]:118.525:voice1.vatsim-germany.org:OTHH_E_TWR
+AG:Hamad Tower [West]:118.025:voice1.vatsim-germany.org:OTHH_W_TWR
+AG:Hamad Ground:121.675:voice1.vatsim-germany.org:OTHH_GND
+AG:Hamad Ground [East]:120.225:voice1.vatsim-germany.org:OTHH_E_GND
+AG:Hamad Ground [West]:118.650:voice1.vatsim-germany.org:OTHH_W_GND
+AG:Hamad Clearance Delivery:120.875:voice1.vatsim-germany.org:OTHH_DEL
+AG:Hamad Automatic Terminal Information Service:126.850:voice1.vatsim-germany.org:OTHH_ATIS
+END

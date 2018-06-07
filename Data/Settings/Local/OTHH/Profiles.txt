@@ -1,0 +1,38 @@
+PROFILE
+PROFILE:DOH_APP:250:5
+ATIS2:"Doha Radar"
+ATIS3:Report Callsign, Altitude & Position on Initial Contact
+ATIS4:Charts & Procedures @ wwww.vatame.org/vacc/OBBB
+PROFILE:OTHH_APP:150:5
+ATIS2:"Doha Approach"
+ATIS3:Report Callsign, Altitude & Position on Initial Contact
+ATIS4:Charts & Procedures @ wwww.vatame.org/vacc/OBBB
+PROFILE:OTHH_E_TWR:100:4
+ATIS2:"Hamad Tower"
+ATIS3:Report Callsign & Aircraft Type on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OTHH_W_TWR:100:4
+ATIS2:"Hamad Tower"
+ATIS3:Report Callsign & Aircraft Type on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OTHH_TWR:100:4
+ATIS2:"Hamad Tower"
+ATIS3:Report Callsign & Aircraft Type on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OTHH_E_GND:80:3
+ATIS2:"Hamad Ground"
+ATIS3:Report Callsign & Stand on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OTHH_W_GND:80:3
+ATIS2:"Hamad Ground"
+ATIS3:Report Callsign & Stand on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OTHH_GND:80:3
+ATIS2:"Hamad Ground"
+ATIS3:Report Callsign & Stand on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OTHH_DEL:80:2
+ATIS2:"Hamad Clearance Delivery"
+ATIS3:Report Callsign & Stand on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+END

@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:<Initials>_OBS:150:0
+ATIS2:Bahrain vACC
+ATIS3:Air Traffic Control Observer
+ATIS4:
+END

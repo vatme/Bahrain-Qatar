@@ -1,0 +1,5 @@
+VOICE
+AG:Doha Tower:118.900:voice1.vatsim-germany.org:OTBD_TWR
+AG:Doha Ground:121.950:voice1.vatsim-germany.org:OTBD_GND
+AG:Doha Automatic Terminal Information Service:126.450:voice1.vatsim-germany.org:OTBD_ATIS
+END

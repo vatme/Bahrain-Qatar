@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:OTBD_TWR:100:4
+ATIS2:"Doha Tower"
+ATIS3:Report Callsign & Aircraft Type on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+PROFILE:OTBD_GND:80:3
+ATIS2:"Doha Ground"
+ATIS3:Report Callsign & Stand on Initial Contact
+ATIS4:Charts & Procedures @ www.vatame.org/vacc/OBBB
+END

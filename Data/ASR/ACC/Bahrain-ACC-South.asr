@@ -1,0 +1,102 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:Bahrain-Qatar-master\Data\Sector\Bahrain.sct
+SECTORTITLE:Bahrain.sct
+ARTCC boundary:Bahrain ACC:
+ARTCC high boundary:Bahrain ACC Central:
+ARTCC high boundary:Bahrain ACC North:
+ARTCC high boundary:Bahrain ACC South:
+ARTCC high boundary:U.A.E ACC North LoA:
+ARTCC high boundary:U.A.E ACC South LoA:
+ARTCC low boundary:Bahrain CTA:
+ARTCC low boundary:Bahrain TMA:
+ARTCC low boundary:OTHH CTA:
+ARTCC low boundary:OTHH TMA 1:
+ARTCC low boundary:OTHH TMA 2:
+ARTCC low boundary:OTHH TMA 3:
+ARTCC low boundary:OTHH TMA 4:
+ARTCC low boundary:OTHH TMA 5:
+Fixes:EGTAB:symbol
+Fixes:ENAKO:name
+Fixes:ENAKO:symbol
+Fixes:KUMBO:name
+Fixes:KUMBO:symbol
+Fixes:KUVER:name
+Fixes:KUVER:symbol
+Fixes:LADNA:name
+Fixes:LADNA:symbol
+Fixes:LONOS:name
+Fixes:LONOS:symbol
+Fixes:MEKMA:name
+Fixes:MEKMA:symbol
+Fixes:METLA:name
+Fixes:METLA:symbol
+Fixes:MIDSI:name
+Fixes:MIDSI:symbol
+Fixes:NALPO:name
+Fixes:NALPO:symbol
+Fixes:NAMLA:name
+Fixes:NAMLA:symbol
+Fixes:NARMI:name
+Fixes:NARMI:symbol
+Fixes:OBNET:name
+Fixes:OBNET:symbol
+Fixes:OBTAR:name
+Fixes:OBTAR:symbol
+Fixes:ORMID:name
+Fixes:ORMID:symbol
+Fixes:OVONA:name
+Fixes:OVONA:symbol
+Fixes:RABAP:name
+Fixes:RABAP:symbol
+Fixes:RAGAS:name
+Fixes:RAGAS:symbol
+Fixes:ROTEL:name
+Fixes:ROTEL:symbol
+Fixes:ROTOX:name
+Fixes:ROTOX:symbol
+Fixes:SOBUS:name
+Fixes:SOBUS:symbol
+Fixes:TORBO:name
+Fixes:TORBO:symbol
+Fixes:TOSNA:name
+Fixes:TOSNA:symbol
+Fixes:TUMAK:name
+Fixes:TUMAK:symbol
+Fixes:ULADA:name
+Fixes:ULADA:symbol
+Fixes:ULIKA:name
+Fixes:ULIKA:symbol
+Regions:BahrainTerrain:polygon
+Regions:DohaTerrain:polygon
+Stars:Holding AFNAN:
+Stars:Holding ALMOK:
+Stars:Holding ALRAS:
+Stars:Holding ALTOM:
+Stars:Holding BAYAN:
+Stars:Holding DENSI:
+Stars:Holding GINTO:
+Stars:Holding ITNAS:
+Stars:Holding MARWA:
+Stars:Holding NAGAT:
+Stars:Holding OBSAS:
+Stars:Holding RAZAN:
+Stars:Holding SOGAT:
+Stars:Holding SOLOB:
+Stars:Holding VELAM:
+Stars:Holding VELOG:
+SHOWC:1
+SHOWSB:0
+BELOW:800
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:COOPANS_DK/SE
+WINDOWAREA:24.108705:49.397223:26.128318:53.601172

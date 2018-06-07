@@ -1,0 +1,57 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:Bahrain-Qatar-master\Data\Sector\Bahrain.sct
+SECTORTITLE:Bahrain.sct
+ARTCC boundary:Bahrain ACC:
+ARTCC high boundary:Bahrain ACC Central:
+ARTCC high boundary:Bahrain ACC North:
+ARTCC high boundary:Bahrain ACC South:
+ARTCC high boundary:U.A.E ACC North LoA:
+ARTCC high boundary:U.A.E ACC South LoA:
+ARTCC low boundary:Bahrain CTA:
+ARTCC low boundary:Bahrain TMA:
+ARTCC low boundary:OTHH CTA:
+ARTCC low boundary:OTHH TMA 1:
+ARTCC low boundary:OTHH TMA 2:
+ARTCC low boundary:OTHH TMA 3:
+ARTCC low boundary:OTHH TMA 4:
+ARTCC low boundary:OTHH TMA 5:
+Fixes:ALRAS:name
+Fixes:ALRAS:symbol
+Fixes:DENVO:name
+Fixes:DENVO:symbol
+Fixes:KOBOK:name
+Fixes:KOBOK:symbol
+Fixes:LADNA:name
+Fixes:LADNA:symbol
+Fixes:LOVAK:name
+Fixes:LOVAK:symbol
+Fixes:MARWA:name
+Fixes:MARWA:symbol
+Fixes:NAGAT:name
+Fixes:NAGAT:symbol
+Fixes:OBSAS:name
+Fixes:OBSAS:symbol
+Fixes:RAZAN:name
+Fixes:RAZAN:symbol
+Fixes:RIGAG:name
+Fixes:RIGAG:symbol
+Fixes:SOGAT:name
+Fixes:SOGAT:symbol
+Regions:BahrainTerrain:polygon
+Regions:DohaTerrain:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:800
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:COOPANS_DK/SE
+WINDOWAREA:26.046454:50.202716:26.469997:51.084348

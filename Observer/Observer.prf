@@ -1,0 +1,44 @@
+Settings	sector	Bahrain-Qatar-master\Data\Sector\Bahrain.sct
+Settings	SettingsfileSYMBOLOGY	Bahrain-Qatar-master\Data\Settings\Symbology.txt
+Settings	SettingsfileVOICE	Bahrain-Qatar-master\Data\Settings\Local\Observer\Voice.txt
+Settings	SettingsfilePROFILE	Bahrain-Qatar-master\Data\Settings\Local\Observer\Profiles.txt
+Settings	SettingsfileTAGS	Bahrain-Qatar-master\Data\Settings\Tags.txt
+Settings	SettingsfileSIL	Bahrain-Qatar-master\Data\Settings\Center\SectorInboundList.txt
+Settings	SettingsfileSEL	Bahrain-Qatar-master\Data\Settings\Center\SectorExitList.txt
+Settings	SettingsfileDEP	Bahrain-Qatar-master\Data\Settings\Center\DepartureList.txt
+Settings	SettingsfileARR	Bahrain-Qatar-master\Data\Settings\Center\ArrivalList.txt
+Settings	SettingsfileFP	Bahrain-Qatar-master\Data\Settings\Center\FlightPlanList.txt
+Settings	SettingsfilePLUGINS	Bahrain-Qatar-master\Data\Settings\PlugIns.txt
+Settings	Settingsfile	Bahrain-Qatar-master\Data\Settings\Center\General.txt
+Settings	SettingsfileSCREEN	Bahrain-Qatar-master\Data\Settings\Center\ScreenLayout.txt
+Settings	SettingsfileCONFLICT	Bahrain-Qatar-master\Data\Settings\Center\ConflictList.txt
+Settings	SettingsfileVCCS	Bahrain-Qatar-master\Data\Settings\VCCS.txt
+RecentFiles	Recent1	Bahrain-Qatar-master\Data\ASR\Observer\Bahrain-Observer.asr
+RecentFiles	Recent2	Bahrain-Qatar-master\Data\ASR\ACC\Bahrain-ACC.asr
+Plugins	Plugin0	Bahrain-Qatar-master\Data\Plugins\CPDLCApp.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	Bahrain-Qatar-master\Data\Plugins\TopSky.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	Bahrain-Qatar-master\Data\Plugins\UK Hold Manager.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	Bahrain-Qatar-master\Data\Plugins\vSMR.dll
+Plugins	Plugin3Display0	SMR radar display
+ASRFastKeys	1	Bahrain-Qatar-master\Data\ASR\ACC\Bahrain-ACC.asr
+ASRFastKeys	2	Bahrain-Qatar-master\Data\ASR\ACC\Bahrain-ACC-Upper.asr
+ASRFastKeys	3	Bahrain-Qatar-master\Data\ASR\Hamad\Hamad-SMR.asr
+RecentFiles	Recent3	Bahrain-Qatar-master\Data\ASR\Bahrain\Bahrain-SMR.asr
+ASRFastKeys	4	Bahrain-Qatar-master\Data\ASR\Doha\Doha-SMR.asr
+RecentFiles	Recent4	Bahrain-Qatar-master\Data\ASR\Al-Khor\Al-Khor-SMR.asr
+Settings	AtisFolder	Bahrain-Qatar-master\Data\ATIS\atisfiles.txt
+ASRFastKeys	5	Bahrain-Qatar-master\Data\ASR\Al-Khor\Al-Khor-SMR.asr
+RecentFiles	Recent5	Bahrain-Qatar-master\Data\ASR\Doha\Doha-SMR.asr
+ASRFastKeys	6	Bahrain-Qatar-master\Data\ASR\Bahrain\Bahrain-SMR.asr
+RecentFiles	Recent6	Bahrain-Qatar-master\Data\ASR\Hamad\Hamad-SMR.asr
+RecentFiles	Recent7	Bahrain-Qatar-master\Data\ASR\ACC\Bahrain-ACC-Upper.asr
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

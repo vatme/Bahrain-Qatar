@@ -1,0 +1,6 @@
+VOICE
+AG:Bahrain Approach:127.850:voice1.vatsim-germany.org:OBBI_APP
+AG:Bahrain Tower:118.500:voice1.vatsim-germany.org:OBBI_TWR
+AG:Bahrain Ground:121.850:voice1.vatsim-germany.org:OBBI_GND
+AG:Bahrain Automatic Terminal Information Service:127.200:voice1.vatsim-germany.org:OBBI_ATIS
+END

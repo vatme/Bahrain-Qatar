@@ -1,0 +1,613 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:Bahrain-Qatar-master\Data\Sector\Bahrain.sct
+SECTORTITLE:Bahrain.sct
+ARTCC boundary:Bahrain ACC:
+ARTCC high boundary:Bahrain ACC Central:
+ARTCC high boundary:Bahrain ACC North:
+ARTCC high boundary:Bahrain ACC South:
+ARTCC high boundary:U.A.E ACC North LoA:
+ARTCC high boundary:U.A.E ACC South LoA:
+ARTCC low boundary:Bahrain CTA:
+ARTCC low boundary:Bahrain TMA:
+ARTCC low boundary:OTHH CTA:
+ARTCC low boundary:OTHH TMA 1:
+ARTCC low boundary:OTHH TMA 2:
+ARTCC low boundary:OTHH TMA 3:
+ARTCC low boundary:OTHH TMA 4:
+ARTCC low boundary:OTHH TMA 5:
+Fixes:2452E:symbol
+Fixes:2551E:symbol
+Fixes:2552E:symbol
+Fixes:2651E:symbol
+Fixes:2652E:symbol
+Fixes:2653E:symbol
+Fixes:2654E:symbol
+Fixes:2750E:symbol
+Fixes:2751E:symbol
+Fixes:2849E:symbol
+Fixes:2850E:symbol
+Fixes:42LOC:symbol
+Fixes:53VOR:symbol
+Fixes:65VOR:symbol
+Fixes:AFNAN:symbol
+Fixes:ALKAG:symbol
+Fixes:ALKAN:symbol
+Fixes:ALKOR:symbol
+Fixes:ALMIN:symbol
+Fixes:ALMOK:symbol
+Fixes:ALNAK:symbol
+Fixes:ALPOB:symbol
+Fixes:ALPOT:symbol
+Fixes:ALRAS:symbol
+Fixes:ALSEM:symbol
+Fixes:ALSER:symbol
+Fixes:ALTOM:symbol
+Fixes:ALVEN:symbol
+Fixes:ALVON:symbol
+Fixes:AMBIK:symbol
+Fixes:ASLAV:symbol
+Fixes:ASLEB:symbol
+Fixes:ASNAX:symbol
+Fixes:ASNOS:symbol
+Fixes:ASPAK:symbol
+Fixes:ASTAD:symbol
+Fixes:ASTIM:symbol
+Fixes:ASTOG:symbol
+Fixes:ASTOP:symbol
+Fixes:ATBAG:symbol
+Fixes:AWALI:symbol
+Fixes:BATHA:symbol
+Fixes:BAYAN:symbol
+Fixes:BD401:symbol
+Fixes:BD701:symbol
+Fixes:BD702:symbol
+Fixes:BI501:symbol
+Fixes:BI502:symbol
+Fixes:BI601:symbol
+Fixes:BI602:symbol
+Fixes:BONAN:symbol
+Fixes:BONEL:symbol
+Fixes:BOPOV:symbol
+Fixes:BOSUP:symbol
+Fixes:BOTAS:symbol
+Fixes:BOTOB:symbol
+Fixes:BOVIP:symbol
+Fixes:BOXED:symbol
+Fixes:BOXOG:symbol
+Fixes:BUBEN:symbol
+Fixes:BUBOD:symbol
+Fixes:BUBOG:symbol
+Fixes:BUDAS:symbol
+Fixes:BUDEB:symbol
+Fixes:BUNDU:symbol
+Fixes:CD16L:symbol
+Fixes:CD34R:symbol
+Fixes:CI12L:symbol
+Fixes:CI16L:symbol
+Fixes:CI30R:symbol
+Fixes:CI32:symbol
+Fixes:CI33R:symbol
+Fixes:CI35:symbol
+Fixes:CR17:symbol
+Fixes:CR35:symbol
+Fixes:D020Y:symbol
+Fixes:D044Y:symbol
+Fixes:D077Y:symbol
+Fixes:D152L:symbol
+Fixes:D186L:symbol
+Fixes:D321H:symbol
+Fixes:D321L:symbol
+Fixes:D326L:symbol
+Fixes:D332C:symbol
+Fixes:D336B:symbol
+Fixes:D336C:symbol
+Fixes:D336D:symbol
+Fixes:DAMOP:symbol
+Fixes:DAMUR:symbol
+Fixes:DANID:symbol
+Fixes:DANIK:symbol
+Fixes:DANOB:symbol
+Fixes:DAROR:symbol
+Fixes:DARTU:symbol
+Fixes:DASIB:symbol
+Fixes:DASIK:symbol
+Fixes:DASLO:symbol
+Fixes:DASOX:symbol
+Fixes:DASUT:symbol
+Fixes:DATEL:symbol
+Fixes:DATEM:symbol
+Fixes:DATEN:symbol
+Fixes:DATMO:symbol
+Fixes:DATRI:symbol
+Fixes:DAVRI:symbol
+Fixes:DAVUS:symbol
+Fixes:DAXEL:symbol
+Fixes:DEBAN:symbol
+Fixes:DEBIL:symbol
+Fixes:DEBKO:symbol
+Fixes:DEBOM:symbol
+Fixes:DEGSO:symbol
+Fixes:DEKTA:symbol
+Fixes:DEKTO:symbol
+Fixes:DEMBO:symbol
+Fixes:DEMTA:symbol
+Fixes:DENSI:symbol
+Fixes:DENVO:symbol
+Fixes:DEPLA:symbol
+Fixes:DERNO:symbol
+Fixes:DESBU:symbol
+Fixes:EGLIT:symbol
+Fixes:EGMIT:symbol
+Fixes:EGMOR:symbol
+Fixes:EGMUR:symbol
+Fixes:EGNUG:symbol
+Fixes:EGSAL:symbol
+Fixes:EGSUN:symbol
+Fixes:EGTAB:symbol
+Fixes:ELEDA:symbol
+Fixes:ELELO:symbol
+Fixes:ELILO:symbol
+Fixes:ELIRA:symbol
+Fixes:ELOBI:symbol
+Fixes:ELOSO:symbol
+Fixes:EMEXA:symbol
+Fixes:EMISA:symbol
+Fixes:EMIXI:symbol
+Fixes:EMOLO:symbol
+Fixes:EMUMO:symbol
+Fixes:EMUNA:symbol
+Fixes:ENAKO:symbol
+Fixes:ENANO:symbol
+Fixes:ENASO:symbol
+Fixes:ENAVI:symbol
+Fixes:ENELI:symbol
+Fixes:FD12L:symbol
+Fixes:FD12R:symbol
+Fixes:FD15:symbol
+Fixes:FD16L:symbol
+Fixes:FD16R:symbol
+Fixes:FD30L:symbol
+Fixes:FD30R:symbol
+Fixes:FD33Z:symbol
+Fixes:FD34L:symbol
+Fixes:FD34R:symbol
+Fixes:FI12L:symbol
+Fixes:FI15:symbol
+Fixes:FI16L:symbol
+Fixes:FI16R:symbol
+Fixes:FI30R:symbol
+Fixes:FI32:symbol
+Fixes:FI33:symbol
+Fixes:FI33R:symbol
+Fixes:FI34L:symbol
+Fixes:FI34R:symbol
+Fixes:FI35:symbol
+Fixes:FS12L:symbol
+Fixes:FS14:symbol
+Fixes:FS30R:symbol
+Fixes:FS32:symbol
+Fixes:FS33Y:symbol
+Fixes:GASSI:symbol
+Fixes:GENOT:symbol
+Fixes:GEPUT:symbol
+Fixes:GETAL:symbol
+Fixes:GETAM:symbol
+Fixes:GETEK:symbol
+Fixes:GEVAL:symbol
+Fixes:GIBIN:symbol
+Fixes:GINTO:symbol
+Fixes:GIRSI:symbol
+Fixes:GISBI:symbol
+Fixes:GITNI:symbol
+Fixes:GOBLU:symbol
+Fixes:GODNI:symbol
+Fixes:GODRI:symbol
+Fixes:GOGMA:symbol
+Fixes:GOGRA:symbol
+Fixes:GOLKO:symbol
+Fixes:GOLSI:symbol
+Fixes:GOMBO:symbol
+Fixes:GOMTO:symbol
+Fixes:HANI:symbol
+Fixes:HH501:symbol
+Fixes:HH502:symbol
+Fixes:HH601:symbol
+Fixes:HH602:symbol
+Fixes:HH801:symbol
+Fixes:HH802:symbol
+Fixes:HH901:symbol
+Fixes:HH902:symbol
+Fixes:IMDOX:symbol
+Fixes:IMKAT:symbol
+Fixes:IMOVA:symbol
+Fixes:IMRED:symbol
+Fixes:IMRUN:symbol
+Fixes:IMSOR:symbol
+Fixes:ITIXA:symbol
+Fixes:ITNAS:symbol
+Fixes:ITOKO:symbol
+Fixes:ITOLA:symbol
+Fixes:ITORA:symbol
+Fixes:ITOVI:symbol
+Fixes:ITSET:symbol
+Fixes:IVANI:symbol
+Fixes:IVAVA:symbol
+Fixes:IVIBO:symbol
+Fixes:IVIKA:symbol
+Fixes:IVITA:symbol
+Fixes:IVIVI:symbol
+Fixes:JALYD:symbol
+Fixes:KAPAX:symbol
+Fixes:KATED:symbol
+Fixes:KEDEN:symbol
+Fixes:KH17A:symbol
+Fixes:KH17F:symbol
+Fixes:KH17I:symbol
+Fixes:KH17M:symbol
+Fixes:KH17T:symbol
+Fixes:KH35C:symbol
+Fixes:KH35E:symbol
+Fixes:KH35F:symbol
+Fixes:KH35I:symbol
+Fixes:KH35M:symbol
+Fixes:KH35T:symbol
+Fixes:KH35W:symbol
+Fixes:KIRAR:symbol
+Fixes:KOBEN:symbol
+Fixes:KOBOK:symbol
+Fixes:KUKSU:symbol
+Fixes:KUMBO:symbol
+Fixes:KUMLA:symbol
+Fixes:KUMSI:symbol
+Fixes:KUNDO:symbol
+Fixes:KUPSA:symbol
+Fixes:KUVER:symbol
+Fixes:LABAB:symbol
+Fixes:LABOP:symbol
+Fixes:LABOV:symbol
+Fixes:LADEM:symbol
+Fixes:LADNA:symbol
+Fixes:LADSO:symbol
+Fixes:LAGMA:symbol
+Fixes:LAGNO:symbol
+Fixes:LEVNA:symbol
+Fixes:LONOS:symbol
+Fixes:LOPOL:symbol
+Fixes:LOSEN:symbol
+Fixes:LOSIS:symbol
+Fixes:LOTOR:symbol
+Fixes:LOVAK:symbol
+Fixes:LOVAL:symbol
+Fixes:LOVAN:symbol
+Fixes:LOVIN:symbol
+Fixes:LOVUG:symbol
+Fixes:LOXUL:symbol
+Fixes:LUBAK:symbol
+Fixes:LUBED:symbol
+Fixes:LUDAM:symbol
+Fixes:LUDOS:symbol
+Fixes:MA12L:symbol
+Fixes:MAKIN:symbol
+Fixes:MARWA:symbol
+Fixes:MD12L:symbol
+Fixes:MD12R:symbol
+Fixes:MD15:symbol
+Fixes:MD16L:symbol
+Fixes:MD16R:symbol
+Fixes:MD30L:symbol
+Fixes:MD30R:symbol
+Fixes:MD34R:symbol
+Fixes:MEBTI:symbol
+Fixes:MEDMA:symbol
+Fixes:MEKMA:symbol
+Fixes:MEMKO:symbol
+Fixes:MENTA:symbol
+Fixes:METLA:symbol
+Fixes:MIBRU:symbol
+Fixes:MIDSI:symbol
+Fixes:MIPET:symbol
+Fixes:MIREX:symbol
+Fixes:ML16L:symbol
+Fixes:ML16R:symbol
+Fixes:ML34L:symbol
+Fixes:ML34R:symbol
+Fixes:MN33:symbol
+Fixes:MODOG:symbol
+Fixes:MOGAS:symbol
+Fixes:MOGER:symbol
+Fixes:MS14:symbol
+Fixes:MS32:symbol
+Fixes:MUSAN:symbol
+Fixes:MUSIG:symbol
+Fixes:MUVEX:symbol
+Fixes:MUXED:symbol
+Fixes:MUXOP:symbol
+Fixes:NABIS:symbol
+Fixes:NABKI:symbol
+Fixes:NABOS:symbol
+Fixes:NAGAT:symbol
+Fixes:NAGER:symbol
+Fixes:NAJMA:symbol
+Fixes:NAKAB:symbol
+Fixes:NALPO:symbol
+Fixes:NAMLA:symbol
+Fixes:NARMI:symbol
+Fixes:NIKAR:symbol
+Fixes:NOBNU:symbol
+Fixes:NOGSU:symbol
+Fixes:NOLPA:symbol
+Fixes:NONTI:symbol
+Fixes:NOPLI:symbol
+Fixes:NOSBI:symbol
+Fixes:NOVDA:symbol
+Fixes:NOVLA:symbol
+Fixes:OB1N3:symbol
+Fixes:OB3N1:symbol
+Fixes:OBNAX:symbol
+Fixes:OBNET:symbol
+Fixes:OBSAS:symbol
+Fixes:OBSUB:symbol
+Fixes:OBTAR:symbol
+Fixes:OBVER:symbol
+Fixes:OBVOM:symbol
+Fixes:ODBIP:symbol
+Fixes:ODKAB:symbol
+Fixes:ORBIV:symbol
+Fixes:ORDAN:symbol
+Fixes:ORGEL:symbol
+Fixes:ORMAL:symbol
+Fixes:ORMID:symbol
+Fixes:ORNAK:symbol
+Fixes:ORSAR:symbol
+Fixes:ORSIS:symbol
+Fixes:ORSOL:symbol
+Fixes:OTIDA:symbol
+Fixes:OTINO:symbol
+Fixes:OTITA:symbol
+Fixes:OVENO:symbol
+Fixes:OVIRI:symbol
+Fixes:OVONA:symbol
+Fixes:OVOVU:symbol
+Fixes:OXALO:symbol
+Fixes:PASAK:symbol
+Fixes:PASAV:symbol
+Fixes:PASID:symbol
+Fixes:PATOM:symbol
+Fixes:PEGEM:symbol
+Fixes:PEGOK:symbol
+Fixes:PEGUN:symbol
+Fixes:PURIN:symbol
+Fixes:PURVA:symbol
+Fixes:PUSNO:symbol
+Fixes:PUSPU:symbol
+Fixes:PUTAN:symbol
+Fixes:PUTIB:symbol
+Fixes:PUVDA:symbol
+Fixes:PUXEL:symbol
+Fixes:RABAP:symbol
+Fixes:RABLA:symbol
+Fixes:RADMO:symbol
+Fixes:RAGAS:symbol
+Fixes:RAGEP:symbol
+Fixes:RAKAK:symbol
+Fixes:RAKSO:symbol
+Fixes:RALKI:symbol
+Fixes:RALMI:symbol
+Fixes:RAMKI:symbol
+Fixes:RAMSI:symbol
+Fixes:RASBO:symbol
+Fixes:RASDI:symbol
+Fixes:RAZAN:symbol
+Fixes:RESAR:symbol
+Fixes:REVAT:symbol
+Fixes:REVAX:symbol
+Fixes:RIGAG:symbol
+Fixes:ROSAN:symbol
+Fixes:ROTAG:symbol
+Fixes:ROTEL:symbol
+Fixes:ROTOX:symbol
+Fixes:ROXIX:symbol
+Fixes:RUDOP:symbol
+Fixes:RUDUM:symbol
+Fixes:SALWA:symbol
+Fixes:SAMYA:symbol
+Fixes:SETNU:symbol
+Fixes:SIDMU:symbol
+Fixes:SILDA:symbol
+Fixes:SIMDA:symbol
+Fixes:SIMSI:symbol
+Fixes:SISUX:symbol
+Fixes:SITAL:symbol
+Fixes:SITOM:symbol
+Fixes:SIVOT:symbol
+Fixes:SOBUS:symbol
+Fixes:SODAK:symbol
+Fixes:SODER:symbol
+Fixes:SOGAN:symbol
+Fixes:SOGAT:symbol
+Fixes:SOKAK:symbol
+Fixes:SOKEN:symbol
+Fixes:SOLAL:symbol
+Fixes:SOLAV:symbol
+Fixes:SOLEM:symbol
+Fixes:SOLOB:symbol
+Fixes:SOMAP:symbol
+Fixes:TABKI:symbol
+Fixes:TANDO:symbol
+Fixes:TANLA:symbol
+Fixes:TARPA:symbol
+Fixes:TATSA:symbol
+Fixes:TESSO:symbol
+Fixes:TOBLI:symbol
+Fixes:TOKMA:symbol
+Fixes:TOLMO:symbol
+Fixes:TOLTO:symbol
+Fixes:TOMSO:symbol
+Fixes:TONBI:symbol
+Fixes:TORBO:symbol
+Fixes:TORKO:symbol
+Fixes:TOSDA:symbol
+Fixes:TOSNA:symbol
+Fixes:TOSTA:symbol
+Fixes:TOTEL:symbol
+Fixes:TOTIS:symbol
+Fixes:TOTNO:symbol
+Fixes:TOVAN:symbol
+Fixes:TOXAM:symbol
+Fixes:TUGOT:symbol
+Fixes:TUKEN:symbol
+Fixes:TUMAK:symbol
+Fixes:TYLOS:symbol
+Fixes:UKIDI:symbol
+Fixes:UKILA:symbol
+Fixes:UKPUX:symbol
+Fixes:ULADA:symbol
+Fixes:ULAMU:symbol
+Fixes:ULBEK:symbol
+Fixes:ULELO:symbol
+Fixes:ULIKA:symbol
+Fixes:UMAVA:symbol
+Fixes:VATEK:symbol
+Fixes:VAXIN:symbol
+Fixes:VEDED:symbol
+Fixes:VEDOM:symbol
+Fixes:VEDOR:symbol
+Fixes:VEDOS:symbol
+Fixes:VEKIS:symbol
+Fixes:VELAK:symbol
+Fixes:VELAM:symbol
+Fixes:VELOG:symbol
+Fixes:VUTAN:symbol
+Fixes:VUVAN:symbol
+Fixes:XABAB:symbol
+Fixes:XALTO:symbol
+High airways:A453:line
+High airways:B415:line
+High airways:B416:line
+High airways:B419:line
+High airways:B457:line
+High airways:G663:line
+High airways:G666:line
+High airways:J749:line
+High airways:J852:line
+High airways:L305:line
+High airways:L319:line
+High airways:L438:line
+High airways:L443:line
+High airways:L564:line
+High airways:L602:line
+High airways:L681:line
+High airways:L768:line
+High airways:M430:line
+High airways:M444:line
+High airways:M557:line
+High airways:M561:line
+High airways:M600:line
+High airways:M677:line
+High airways:M872:line
+High airways:N300:line
+High airways:N318:line
+High airways:N685:line
+High airways:N687:line
+High airways:N697:line
+High airways:P430:line
+High airways:P559:line
+High airways:P699:line
+High airways:P899:line
+High airways:P975:line
+High airways:Q215:line
+High airways:R659:line
+High airways:R784:line
+High airways:T112:line
+High airways:T142:line
+High airways:T308:line
+High airways:T319:line
+High airways:T430:line
+High airways:T444:line
+High airways:T659:line
+High airways:T665:line
+High airways:T800:line
+High airways:T872:line
+High airways:UA453:line
+High airways:UB415:line
+High airways:UB416:line
+High airways:UB419:line
+High airways:UB457:line
+High airways:UG663:line
+High airways:UL305:line
+High airways:UL319:line
+High airways:UL438:line
+High airways:UL443:line
+High airways:UL564:line
+High airways:UL602:line
+High airways:UL681:line
+High airways:UL768:line
+High airways:UM430:line
+High airways:UM444:line
+High airways:UM600:line
+High airways:UM677:line
+High airways:UM872:line
+High airways:UN300:line
+High airways:UN318:line
+High airways:UN685:line
+High airways:UN687:line
+High airways:UN697:line
+High airways:UP430:line
+High airways:UP559:line
+High airways:UP693:line
+High airways:UP699:line
+High airways:UP899:line
+High airways:UP975:line
+High airways:UQ215:line
+High airways:UR659:line
+High airways:UT112:line
+High airways:UT308:line
+High airways:UT319:line
+High airways:UT430:line
+High airways:UT438:line
+High airways:UT444:line
+High airways:UT557:line
+High airways:UT602:line
+High airways:UT659:line
+High airways:UT677:line
+High airways:UT800:line
+High airways:UT872:line
+High airways:UT975:line
+High airways:UY001:line
+High airways:UY604:line
+High airways:UY856:line
+High airways:UZ225:line
+High airways:UZ622:line
+High airways:V975:line
+High airways:Y001:line
+High airways:Z225:line
+NDBs:AK:symbol
+NDBs:FY:symbol
+NDBs:RNZ:symbol
+NDBs:RT:symbol
+NDBs:SI:symbol
+NDBs:WK:symbol
+Regions:BahrainTerrain:polygon
+Regions:DohaTerrain:polygon
+VORs:ALD:symbol
+VORs:BAT:symbol
+VORs:BHR:symbol
+VORs:DIA:symbol
+VORs:DOH:symbol
+VORs:SIA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:800
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:COOPANS_DK/SE
+WINDOWAREA:23.046093:45.243497:29.209464:58.072933
